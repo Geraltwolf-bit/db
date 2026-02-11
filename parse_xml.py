@@ -19,24 +19,28 @@ def parse_xml(file_path):
         }
     
     try:
+        #create customer_info for data you will be taking from customerInfo section:
         customer_info = root.find('.//{http://zakupki.gov.ru/oos/CPtypes/1}customerInfo')
         if customer_info is not None:
             print('Found customerInfo element')
 
-            contract_number = root.find('.//{http://zakupki.gov.ru/oos/CPtypes/1}contractNumber', namespaces)
-            if contract_number is not None:
-                data['contract_number'] = contract_number.text
-                print(f'found Contract Number: {data['contract_number']}')
-            else:
-                print('Could not find Contract Number')
-
+            #take from customerInfo
             customer_inn = customer_info.find('.//ns2:INN', namespaces)
             if customer_inn is not None:
                 data['customer_inn'] = customer_inn.text
                 print(f"found INN: {data['customer_inn']}")
             else:
                 print('Could not find ns2:INN')
-        
+
+        #create root for data you will be taking from root directly:
+        contract_number = root.find('.//{http://zakupki.gov.ru/oos/CPtypes/1}contractNumber', namespaces)
+        if contract_number is not None:
+            data['contract_number'] = contract_number.text
+            print(f'found Contract Number: {data['contract_number']}')
+        else:
+            print('Could not find Contract Number')
+
+            
         return data
     
     except Exception as e:
