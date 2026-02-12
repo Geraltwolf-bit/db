@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns6:cpElectronicContract schemeVersion="16.0" xmlns="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns6="http://zakupki.gov.ru/oos/printform/1" xmlns:ns5="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns2="http://zakupki.gov.ru/oos/common/1" xmlns:ns4="http://zakupki.gov.ru/oos/types/1" xmlns:ns3="http://zakupki.gov.ru/oos/base/1">
+    <versionNumber>1</versionNumber>
+    <contractNumber>0357200029225000202</contractNumber>
+    <docType>1</docType>
+    <mainDocInfo>
+        <id>43306181</id>
+    </mainDocInfo>
+    <customerInfo>
+        <ns2:regNum>03572000292</ns2:regNum>
+        <ns2:consRegistryNum>582Э2685</ns2:consRegistryNum>
+        <ns2:fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ ПСКОВСКОЙ ОБЛАСТИ "ОСТРОВСКАЯ МЕЖРАЙОННАЯ БОЛЬНИЦА"</ns2:fullName>
+        <ns2:shortName>ГБУЗ ПО "ОСТРОВСКАЯ МБ"</ns2:shortName>
+        <ns2:postAddress>Российская Федерация, 181350, Псковская обл, Островский р-н, Остров г, К.Маркса ул, Д. 10</ns2:postAddress>
+        <ns2:factAddress>Российская Федерация, 181350, Псковская обл, Островский р-н, Остров г, К.Маркса ул, Д. 10</ns2:factAddress>
+        <ns2:INN>6013008784</ns2:INN>
+        <ns2:KPP>601301001</ns2:KPP>
+        <OKOPFInfo>
+            <ns3:code>75203</ns3:code>
+            <ns3:singularName>Государственные бюджетные учреждения субъектов Российской Федерации</ns3:singularName>
+        </OKOPFInfo>
+        <contactPersonInfo>
+            <ns2:lastName>Хачатрян</ns2:lastName>
+            <ns2:firstName>Гайк</ns2:firstName>
+            <ns2:middleName>Багдасарович</ns2:middleName>
+        </contactPersonInfo>
+        <email>zakupkiostrovmb@yandex.ru</email>
+        <contactPhone>7-81152-31993</contactPhone>
+        <customerAccountsDetailsInfo>
+            <customerAccountDetailsInfo>
+                <ns2:sid>204246821</ns2:sid>
+                <ns2:accountType>01</ns2:accountType>
+                <ns2:personalAccountNumber>802Э2685000</ns2:personalAccountNumber>
+                <ns2:creditOrgName>УФК по Нижегородской области</ns2:creditOrgName>
+                <ns2:detailsCreditOrgText>ОКЦ № 1 ВВГУ Банка России // УФК по Нижегородской области, г. Нижний Новгород</ns2:detailsCreditOrgText>
+                <ns2:bankAccountNumber>03224643580000003200</ns2:bankAccountNumber>
+                <ns2:bik>012202102</ns2:bik>
+                <ns2:corrAccountNumber>40102810745370000024</ns2:corrAccountNumber>
+            </customerAccountDetailsInfo>
+        </customerAccountsDetailsInfo>
+    </customerInfo>
+    <participantInfo>
+        <legalEntityRFInfo>
+            <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "МЕДИСЕНС"</fullName>
+            <shortName>ООО "МЕДИСЕНС"</shortName>
+            <INN>7751370375</INN>
+            <KPP>775101001</KPP>
+            <factAddress>108810, Г.МОСКВА, вн.тер.г. МУНИЦИПАЛЬНЫЙ ОКРУГ ВНУКОВО, КВ-Л 89, Д. 1</factAddress>
+            <postAddress>108810, Россия, г. Москва, вн.тер.г. Муниципальный округ Внуково, кв-л 89, д. 1</postAddress>
+            <email>torgi@mdsens.ru</email>
+            <contactPhone>7 4952601790</contactPhone>
+            <informationPersonsInfo>
+                <informationPersonInfo>
+                    <nameInfo>
+                        <ns2:lastName>МОЛОДКОВА</ns2:lastName>
+                        <ns2:firstName>НАТАЛИЯ</ns2:firstName>
+                        <ns2:middleName>АНАТОЛЬЕВНА</ns2:middleName>
+                    </nameInfo>
+                    <INN>772706090557</INN>
+                    <position>ГЕНЕРАЛЬНЫЙ ДИРЕКТОР</position>
+                </informationPersonInfo>
+            </informationPersonsInfo>
+        </legalEntityRFInfo>
+        <contractorRegistryNum>25088541</contractorRegistryNum>
+        <status>
+            <ns3:code>30</ns3:code>
+            <ns3:name>Субъект малого предпринимательства</ns3:name>
+        </status>
+        <participantAccountsDetailsInfo>
+            <electronicContractAccountsDetailsInfo>
+                <electronicContractAccountDetailsInfo>
+                    <ns2:sid>204246820</ns2:sid>
+                    <ns2:accountType>03</ns2:accountType>
+                    <ns2:creditOrgName>АО "АЛЬФА-БАНК"</ns2:creditOrgName>
+                    <ns2:detailsCreditOrgText>АО "АЛЬФА-БАНК", г. Москва</ns2:detailsCreditOrgText>
+                    <ns2:bankAccountNumber>40702810801300052790</ns2:bankAccountNumber>
+                    <ns2:bik>044525593</ns2:bik>
+                    <ns2:corrAccountNumber>30101810200000000593</ns2:corrAccountNumber>
+                    <ns2:counterparty160Name>ООО "МЕДИСЕНС"</ns2:counterparty160Name>
+                    <organizationType>L</organizationType>
+                </electronicContractAccountDetailsInfo>
+            </electronicContractAccountsDetailsInfo>
+        </participantAccountsDetailsInfo>
+    </participantInfo>
+    <foundationInfo>
+        <placingWay>
+            <ns3:code>ZK20</ns3:code>
+            <ns3:name>Запрос котировок в электронной форме</ns3:name>
+        </placingWay>
+        <purchaseCode>252601300878460130100101990022120244</purchaseCode>
+        <purchaseNumber>0357200029225000202</purchaseNumber>
+        <protocolInfo>
+            <name>Протокол подведения итогов определения поставщика (подрядчика, исполнителя)</name>
+            <number>ИЗК1</number>
+            <publishDTInEIS>2026-01-20T00:00:00.000+03:00</publishDTInEIS>
+        </protocolInfo>
+    </foundationInfo>
+    <contractSubjectInfo>
+        <contractSubject>Расходные материалы для лаборатории (Тропонин I ИВД, набор)</contractSubject>
+        <productsInfo>
+            <productsInfoElectronicContract>
+                <productInfo>
+                    <sid>92530807</sid>
+                    <protocolObjectSid>105761743</protocolObjectSid>
+                    <purchaseObjectSid>201809768</purchaseObjectSid>
+                    <purchaseObjectExternalSid>207a808f-3537-4779-877c-1391cfdb3fc3</purchaseObjectExternalSid>
+                    <indexNum>1</indexNum>
+                    <name>Тропонин I ИВД, набор, иммунохроматографический анализ, экспресс-анализ</name>
+                    <OKPD2Info>
+                        <ns3:OKPDCode>21.20.23.110</ns3:OKPDCode>
+                        <ns3:OKPDName>Реагенты диагностические</ns3:OKPDName>
+                    </OKPD2Info>
+                    <KTRUInfo>
+                        <ns3:code>21.20.23.110-00009552</ns3:code>
+                        <ns3:name>Тропонин I ИВД, набор, иммунохроматографический анализ, экспресс-анализ</ns3:name>
+                        <ns3:versionId>71682</ns3:versionId>
+                        <ns3:versionNumber>1</ns3:versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <ns2:sid>235280433</ns2:sid>
+                                <ns2:notificationSid>267483770</ns2:notificationSid>
+                                <ns2:notificationExternalSid>9990725b-637c-44fc-a810-5e9f8d1f0522</ns2:notificationExternalSid>
+                                <ns2:code>bc9b4a48-7</ns2:code>
+                                <ns2:name>Количество выполняемых тестов</ns2:name>
+                                <ns2:type>2</ns2:type>
+                                <ns2:kind>1</ns2:kind>
+                                <ns2:values>
+                                    <ns2:value>
+                                        <ns2:sid>251042122</ns2:sid>
+                                        <ns2:notificationSid>343907643</ns2:notificationSid>
+                                        <ns2:codeCharacteristicValue>7e217c37-5</ns2:codeCharacteristicValue>
+                                        <ns2:OKEI>
+                                            <ns3:code>796</ns3:code>
+                                            <ns3:nationalCode>ШТ</ns3:nationalCode>
+                                            <ns3:name>Штука</ns3:name>
+                                        </ns2:OKEI>
+                                        <ns2:valueFormat>N</ns2:valueFormat>
+                                        <ns2:valueSet>
+                                            <ns2:concreteValue>20</ns2:concreteValue>
+                                        </ns2:valueSet>
+                                    </ns2:value>
+                                </ns2:values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <ns2:sid>235280434</ns2:sid>
+                                <ns2:notificationSid>267483769</ns2:notificationSid>
+                                <ns2:notificationExternalSid>8fd86a06-24db-45ac-96dd-eef87be9511c</ns2:notificationExternalSid>
+                                <ns2:code>a66e9b93-b</ns2:code>
+                                <ns2:name>Назначение</ns2:name>
+                                <ns2:type>1</ns2:type>
+                                <ns2:kind>1</ns2:kind>
+                                <ns2:values>
+                                    <ns2:value>
+                                        <ns2:sid>251042123</ns2:sid>
+                                        <ns2:notificationSid>343907642</ns2:notificationSid>
+                                        <ns2:codeCharacteristicValue>03235b88-7</ns2:codeCharacteristicValue>
+                                        <ns2:qualityDescription>Для ручной постановки анализа</ns2:qualityDescription>
+                                    </ns2:value>
+                                </ns2:values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingTextForm>
+                                <ns2:sid>235280430</ns2:sid>
+                                <ns2:notificationSid>267483764</ns2:notificationSid>
+                                <ns2:notificationExternalSid>739ff99f-bf04-4b45-b71a-cfc9e7dd5944</ns2:notificationExternalSid>
+                                <ns2:name>Описание</ns2:name>
+                                <ns2:type>1</ns2:type>
+                                <ns2:values>
+                                    <ns2:value>
+                                        <ns2:sid>251042119</ns2:sid>
+                                        <ns2:notificationSid>343907639</ns2:notificationSid>
+                                        <ns2:qualityDescription>Тропонин I ИВД, набор, иммунохроматографический анализ, экспресс-анализ .Набор реагентов и других связанных с ними материалов, предназначенный для качественного и/или количественного определения тропонинп I (troponin I) в клиническом образце в течение короткого периода, по сравнению со стандартными процедурами лабораторных испытаний, с использованием метода иммунохроматографического анализа. Этот тест обычно используется для лабораторных анализов или исследований по месту лечения.</ns2:qualityDescription>
+                                    </ns2:value>
+                                </ns2:values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <ns2:sid>235280431</ns2:sid>
+                                <ns2:notificationSid>267483765</ns2:notificationSid>
+                                <ns2:notificationExternalSid>f4ab84d8-4597-43cd-997d-76aa1db35444</ns2:notificationExternalSid>
+                                <ns2:name>Тест определяет cTnI с концентрацией нг/мл</ns2:name>
+                                <ns2:type>2</ns2:type>
+                                <ns2:values>
+                                    <ns2:value>
+                                        <ns2:sid>251042120</ns2:sid>
+                                        <ns2:notificationSid>343907640</ns2:notificationSid>
+                                        <ns2:valueFormat>N</ns2:valueFormat>
+                                        <ns2:valueSet>
+                                            <ns2:concreteValue>0.5</ns2:concreteValue>
+                                        </ns2:valueSet>
+                                    </ns2:value>
+                                </ns2:values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <ns2:sid>235280432</ns2:sid>
+                                <ns2:notificationSid>267483768</ns2:notificationSid>
+                                <ns2:notificationExternalSid>9cc63edc-0d77-4c9b-bc0c-08fab512996f</ns2:notificationExternalSid>
+                                <ns2:name>Время развития реакции</ns2:name>
+                                <ns2:type>2</ns2:type>
+                                <ns2:values>
+                                    <ns2:value>
+                                        <ns2:sid>251042121</ns2:sid>
+                                        <ns2:notificationSid>343907641</ns2:notificationSid>
+                                        <ns2:OKEI>
+                                            <ns3:code>355</ns3:code>
+                                            <ns3:nationalCode>МИН</ns3:nationalCode>
+                                            <ns3:name>Минута</ns3:name>
+                                        </ns2:OKEI>
+                                        <ns2:valueFormat>N</ns2:valueFormat>
+                                        <ns2:valueSet>
+                                            <ns2:concreteValue>10</ns2:concreteValue>
+                                        </ns2:valueSet>
+                                    </ns2:value>
+                                </ns2:values>
+                            </characteristicsUsingTextForm>
+                        </characteristics>
+                    </KTRUInfo>
+                    <hierarchyType>ND</hierarchyType>
+                    <type>PRODUCT</type>
+                    <sum>88000.00</sum>
+                    <medicalProductInfo>
+                        <isMedicalProductInfo>true</isMedicalProductInfo>
+                        <medicalProductCode>244790</medicalProductCode>
+                        <medicalProductName>Тропонин I ИВД, набор, иммунохроматографический анализ, экспресс-анализ</medicalProductName>
+                        <certificateNameMedicalProduct>Набор реагентов для иммунохроматографического выявления специфических кардиомаркеров в сыворотке (плазме) или цельной крови 
+«ИХА-КАРДИО-ФАКТОР»
+
+По ТУ 21.20.23-130-69721380-2021
+Вариант исполнения № 1. Комплект 1.</certificateNameMedicalProduct>
+                    </medicalProductInfo>
+                    <trademarkInfo>
+                        <trademark>Графическое изображение товарного знака зарегистрировано в ФИПС № 227320</trademark>
+                    </trademarkInfo>
+                    <OKEIInfo>
+                        <ns3:code>704</ns3:code>
+                        <ns3:nationalCode>набор</ns3:nationalCode>
+                        <ns3:name>Набор</ns3:name>
+                    </OKEIInfo>
+                    <quantity>40</quantity>
+                    <price>2200.00</price>
+                    <originCountryInfo>
+                        <ns3:countryCode>643</ns3:countryCode>
+                        <ns3:countryFullName>Российская Федерация</ns3:countryFullName>
+                    </originCountryInfo>
+                    <VATRateInfo>
+                        <ns3:VATCode>R10</ns3:VATCode>
+                        <ns3:VATName>10%</ns3:VATName>
+                    </VATRateInfo>
+                </productInfo>
+            </productsInfoElectronicContract>
+        </productsInfo>
+    </contractSubjectInfo>
+    <contractConditionsInfo>
+        <contractExecutionTermsInfo>
+            <notRelativeTermsInfo>
+                <isFromConclusionDate>true</isFromConclusionDate>
+                <endDate>2026-04-30</endDate>
+            </notRelativeTermsInfo>
+        </contractExecutionTermsInfo>
+        <stagesInfo>
+            <stageInfo>
+                <sid>34533348</sid>
+                <purchaseStageSid>18613131</purchaseStageSid>
+                <purchaseStageExternalSid>c071d1f3-1088-4cdd-86f8-f933f145a55a</purchaseStageExternalSid>
+                <termsInfo>
+                    <notRelativeTermsInfo>
+                        <isFromConclusionDate>true</isFromConclusionDate>
+                        <endDate>2026-04-30</endDate>
+                    </notRelativeTermsInfo>
+                </termsInfo>
+                <paymentsSumInfo>
+                    <paymentsSum>88000.00</paymentsSum>
+                    <advancePaymentSumInfo>
+                        <sum>0.00</sum>
+                        <sumInPercents>0.0</sumInPercents>
+                    </advancePaymentSumInfo>
+                    <nonbudgetFinancingsInfo>
+                        <sid>37824524</sid>
+                        <KVR>244</KVR>
+                        <receiptCode>
+                            <ns3:code>МС</ns3:code>
+                            <ns3:name>Средства обязательного медицинского страхования</ns3:name>
+                        </receiptCode>
+                        <paymentYearsInfo>
+                            <paymentYearInfo>
+                                <paymentYear>2026</paymentYear>
+                                <paymentSum>88000.00</paymentSum>
+                            </paymentYearInfo>
+                        </paymentYearsInfo>
+                    </nonbudgetFinancingsInfo>
+                </paymentsSumInfo>
+            </stageInfo>
+        </stagesInfo>
+        <deliveryPlaceInfo>
+            <byGARInfo>
+                <ns2:sid>28634348</ns2:sid>
+                <ns2:countryInfo>
+                    <ns3:countryCode>643</ns3:countryCode>
+                    <ns3:countryFullName>Российская Федерация</ns3:countryFullName>
+                </ns2:countryInfo>
+                <ns2:GARInfo>
+                    <ns2:GARGuid>f6e148a1-c9d0-4141-a608-93e3bd95e6c4</ns2:GARGuid>
+                    <ns2:GARAddress>обл Псковская</ns2:GARAddress>
+                </ns2:GARInfo>
+                <ns2:deliveryPlace>Островский район, город Остров, улица К. Маркса, дом 10</ns2:deliveryPlace>
+            </byGARInfo>
+        </deliveryPlaceInfo>
+        <contractGuaranteeInfo>
+            <isContractGuarantee>true</isContractGuarantee>
+            <part>5.0</part>
+            <amount>4400.00</amount>
+            <procedureInfo>В соответствии с действующим законодательством о контрактной системе</procedureInfo>
+        </contractGuaranteeInfo>
+        <otherConditionsInfo>
+            <oneSideRejection>true</oneSideRejection>
+        </otherConditionsInfo>
+        <isExecutionStagesTerms>false</isExecutionStagesTerms>
+    </contractConditionsInfo>
+    <contractFinancingInfo>
+        <financingSourcesInfo>
+            <nonbudgetFinancingsInfo>
+                <selfFunds>true</selfFunds>
+            </nonbudgetFinancingsInfo>
+            <bankSupportContractRequiredInfo>
+                <ns2:bankSupportContractRequired>false</ns2:bankSupportContractRequired>
+            </bankSupportContractRequiredInfo>
+        </financingSourcesInfo>
+        <contractPriceInfo>
+            <priceType>P</priceType>
+            <price>88000.00</price>
+            <currencyInfo>
+                <ns3:code>RUB</ns3:code>
+                <ns3:name>РОССИЙСКИЙ РУБЛЬ</ns3:name>
+            </currencyInfo>
+        </contractPriceInfo>
+        <paymentProcedureInfo>
+            <holdCashCondition>true</holdCashCondition>
+            <amountsReducedByTaxes>false</amountsReducedByTaxes>
+        </paymentProcedureInfo>
+        <paymentsInfo>
+            <paymentYearsInfo>
+                <paymentYearInfo>
+                    <paymentYear>2026</paymentYear>
+                    <paymentSum>88000.00</paymentSum>
+                </paymentYearInfo>
+                <paymentsSum>88000.00</paymentsSum>
+            </paymentYearsInfo>
+        </paymentsInfo>
+    </contractFinancingInfo>
+    <attachmentsInfo>
+        <attachmentInfo>
+            <publishedContentId>E80D1CFCC9EE4FBFBD9075A9B02291BE</publishedContentId>
+            <fileName>контракт тропинин.docx</fileName>
+            <docDescription>контракт тропинин</docDescription>
+            <contentId>E80D1CFCC9EE4FBFBD9075A9B02291BE</contentId>
+            <fileSize>66045</fileSize>
+        </attachmentInfo>
+    </attachmentsInfo>
+    <printFormFieldsInfo>
+        <revisionNumber>1</revisionNumber>
+        <isEstimateContract>false</isEstimateContract>
+    </printFormFieldsInfo>
+</ns6:cpElectronicContract>

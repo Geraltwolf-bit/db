@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns6:cpElectronicContract schemeVersion="16.0" xmlns="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns6="http://zakupki.gov.ru/oos/printform/1" xmlns:ns5="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns2="http://zakupki.gov.ru/oos/common/1" xmlns:ns4="http://zakupki.gov.ru/oos/types/1" xmlns:ns3="http://zakupki.gov.ru/oos/base/1">
+    <versionNumber>1</versionNumber>
+    <contractNumber>0168500000625004604</contractNumber>
+    <docType>1</docType>
+    <mainDocInfo>
+        <id>42422842</id>
+    </mainDocInfo>
+    <customerInfo>
+        <ns2:regNum>03683000152</ns2:regNum>
+        <ns2:consRegistryNum>73220875</ns2:consRegistryNum>
+        <ns2:fullName>ГОСУДАРСТВЕННОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ГОРОДСКАЯ ПОЛИКЛИНИКА № 4"</ns2:fullName>
+        <ns2:shortName>ГУЗ "ГОРОДСКАЯ ПОЛИКЛИНИКА № 4"</ns2:shortName>
+        <ns2:postAddress>432054, Ульяновская обл, г Ульяновск, ул Камышинская, дом 41</ns2:postAddress>
+        <ns2:factAddress>Российская Федерация, 432054, Ульяновская обл, Ульяновск г, Камышинская, Д.41 ---------, -----------------</ns2:factAddress>
+        <ns2:INN>7327016523</ns2:INN>
+        <ns2:KPP>732701001</ns2:KPP>
+        <OKOPFInfo>
+            <ns3:code>75203</ns3:code>
+            <ns3:singularName>Государственные бюджетные учреждения субъектов Российской Федерации</ns3:singularName>
+        </OKOPFInfo>
+        <contactPersonInfo>
+            <ns2:lastName>Макаров</ns2:lastName>
+            <ns2:firstName>Евгений </ns2:firstName>
+            <ns2:middleName>Сергеевич</ns2:middleName>
+        </contactPersonInfo>
+        <email>274151@mail.ru</email>
+        <contactPhone>7-8422-274135</contactPhone>
+        <customerAccountsDetailsInfo>
+            <customerAccountDetailsInfo>
+                <ns2:sid>200470423</ns2:sid>
+                <ns2:accountType>02</ns2:accountType>
+                <ns2:personalAccountNumber>22261136B31</ns2:personalAccountNumber>
+                <ns2:creditOrgName>УФК по Ульяновской области</ns2:creditOrgName>
+                <ns2:detailsCreditOrgText>ОКЦ № 5 ВВГУ Банка России // УФК по Ульяновской области, г. Ульяновск</ns2:detailsCreditOrgText>
+                <ns2:bankAccountNumber>03224643730000006801</ns2:bankAccountNumber>
+                <ns2:bik>017308101</ns2:bik>
+                <ns2:corrAccountNumber>40102810645370000061</ns2:corrAccountNumber>
+            </customerAccountDetailsInfo>
+        </customerAccountsDetailsInfo>
+    </customerInfo>
+    <participantInfo>
+        <individualPersonRFInfo>
+            <nameInfo>
+                <ns2:lastName>ДРЫГИН</ns2:lastName>
+                <ns2:firstName>ВЯЧЕСЛАВ</ns2:firstName>
+                <ns2:middleName>ЮРЬЕВИЧ</ns2:middleName>
+            </nameInfo>
+            <isIP>true</isIP>
+            <INN>132709364980</INN>
+            <factAddress>427772, УДМУРТСКАЯ РЕСПУБЛИКА МОЖГИНСКИЙ РАЙОН, Д БОЛЬШИЕ СИБЫ, УЛ ШКОЛЬНАЯ, Д. 34, КВ. 17</factAddress>
+            <postAddress>427772, УДМУРТСКАЯ РЕСПУБЛИКА, Р-Н МОЖГИНСКИЙ, Д БОЛЬШИЕ СИБЫ, УЛ ШКОЛЬНАЯ, Д. 34, КВ. 17</postAddress>
+            <email>vyu.drygin@mail.ru</email>
+            <contactPhone>7 9272746036</contactPhone>
+        </individualPersonRFInfo>
+        <contractorRegistryNum>21073132</contractorRegistryNum>
+        <participantAccountsDetailsInfo>
+            <electronicContractAccountsDetailsInfo>
+                <electronicContractAccountDetailsInfo>
+                    <ns2:sid>200466598</ns2:sid>
+                    <ns2:accountType>03</ns2:accountType>
+                    <ns2:creditOrgName>Филиал "Центральный" Банка ВТБ (ПАО)</ns2:creditOrgName>
+                    <ns2:detailsCreditOrgText>Филиал "Центральный" Банка ВТБ (ПАО), г. Москва</ns2:detailsCreditOrgText>
+                    <ns2:bankAccountNumber>40802810908180001927</ns2:bankAccountNumber>
+                    <ns2:bik>044525411</ns2:bik>
+                    <ns2:corrAccountNumber>30101810145250000411</ns2:corrAccountNumber>
+                    <ns2:counterparty160Name>ДРЫГИН ВЯЧЕСЛАВ ЮРЬЕВИЧ (ИП)</ns2:counterparty160Name>
+                    <organizationType>L</organizationType>
+                </electronicContractAccountDetailsInfo>
+            </electronicContractAccountsDetailsInfo>
+        </participantAccountsDetailsInfo>
+    </participantInfo>
+    <foundationInfo>
+        <placingWay>
+            <ns3:code>ZK20</ns3:code>
+            <ns3:name>Запрос котировок в электронной форме</ns3:name>
+        </placingWay>
+        <purchaseCode>252732701652373270100100880012120000</purchaseCode>
+        <purchaseNumber>0168500000625004604</purchaseNumber>
+        <protocolInfo>
+            <name>Протокол подведения итогов определения поставщика (подрядчика, исполнителя)</name>
+            <number>ИЗК1</number>
+            <publishDTInEIS>2026-01-13T00:00:00.000+03:00</publishDTInEIS>
+        </protocolInfo>
+    </foundationInfo>
+    <contractSubjectInfo>
+        <contractSubject>Вирус гриппа А/В антигены ИВД набор, иммунохроматографический анализ, экспресс-анализ</contractSubject>
+        <productsInfo>
+            <productsInfoElectronicContract>
+                <productInfo>
+                    <sid>89931384</sid>
+                    <protocolObjectSid>104599220</protocolObjectSid>
+                    <purchaseObjectSid>201723561</purchaseObjectSid>
+                    <purchaseObjectExternalSid>2220bb01-e621-48d1-a671-a778024736bf</purchaseObjectExternalSid>
+                    <indexNum>1</indexNum>
+                    <name>Вирус гриппа А/В антигены ИВД, набор, иммунохроматографический анализ, экспресс-анализ</name>
+                    <OKPD2Info>
+                        <ns3:OKPDCode>21.20.23.110</ns3:OKPDCode>
+                        <ns3:OKPDName>Реагенты диагностические</ns3:OKPDName>
+                    </OKPD2Info>
+                    <KTRUInfo>
+                        <ns3:code>21.20.23.110-00008000</ns3:code>
+                        <ns3:name>Вирус гриппа А/В антигены ИВД, набор, иммунохроматографический анализ, экспресс-анализ</ns3:name>
+                        <ns3:versionId>73867</ns3:versionId>
+                        <ns3:versionNumber>1</ns3:versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <ns2:sid>229241855</ns2:sid>
+                                <ns2:notificationSid>267254704</ns2:notificationSid>
+                                <ns2:notificationExternalSid>dfd8c9be-ad14-4357-b27a-5ff6429e8def</ns2:notificationExternalSid>
+                                <ns2:code>89749ce5-d</ns2:code>
+                                <ns2:name>Количество выполняемых тестов</ns2:name>
+                                <ns2:type>2</ns2:type>
+                                <ns2:kind>1</ns2:kind>
+                                <ns2:values>
+                                    <ns2:value>
+                                        <ns2:sid>244307310</ns2:sid>
+                                        <ns2:notificationSid>342371136</ns2:notificationSid>
+                                        <ns2:codeCharacteristicValue>84bb0daa-2</ns2:codeCharacteristicValue>
+                                        <ns2:OKEI>
+                                            <ns3:code>796</ns3:code>
+                                            <ns3:nationalCode>ШТ</ns3:nationalCode>
+                                            <ns3:name>Штука</ns3:name>
+                                        </ns2:OKEI>
+                                        <ns2:valueFormat>N</ns2:valueFormat>
+                                        <ns2:valueSet>
+                                            <ns2:concreteValue>20</ns2:concreteValue>
+                                        </ns2:valueSet>
+                                    </ns2:value>
+                                </ns2:values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRUInfo>
+                    <hierarchyType>ND</hierarchyType>
+                    <type>PRODUCT</type>
+                    <sum>1368900.00</sum>
+                    <medicalProductInfo>
+                        <isMedicalProductInfo>true</isMedicalProductInfo>
+                        <medicalProductCode>296170</medicalProductCode>
+                        <medicalProductName>Вирус гриппа А/В антигены ИВД, набор, иммунохроматографический анализ, экспресс-анализ</medicalProductName>
+                    </medicalProductInfo>
+                    <trademarkInfo>
+                        <trademark>DAC-SPECTROMED</trademark>
+                    </trademarkInfo>
+                    <OKEIInfo>
+                        <ns3:code>704</ns3:code>
+                        <ns3:nationalCode>набор</ns3:nationalCode>
+                        <ns3:name>Набор</ns3:name>
+                    </OKEIInfo>
+                    <quantity>780</quantity>
+                    <price>1755.00</price>
+                    <originCountryInfo>
+                        <ns3:countryCode>643</ns3:countryCode>
+                        <ns3:countryFullName>Российская Федерация</ns3:countryFullName>
+                    </originCountryInfo>
+                    <VATRateInfo>
+                        <ns3:VATCode>R10</ns3:VATCode>
+                        <ns3:VATName>10%</ns3:VATName>
+                    </VATRateInfo>
+                </productInfo>
+            </productsInfoElectronicContract>
+        </productsInfo>
+    </contractSubjectInfo>
+    <contractConditionsInfo>
+        <contractExecutionTermsInfo>
+            <notRelativeTermsInfo>
+                <isFromConclusionDate>true</isFromConclusionDate>
+                <endDate>2026-12-15</endDate>
+            </notRelativeTermsInfo>
+        </contractExecutionTermsInfo>
+        <stagesInfo>
+            <stageInfo>
+                <sid>33666089</sid>
+                <purchaseStageSid>18599718</purchaseStageSid>
+                <purchaseStageExternalSid>08814e80-fb25-491f-9996-36a8d0cc4e37</purchaseStageExternalSid>
+                <termsInfo>
+                    <notRelativeTermsInfo>
+                        <isFromConclusionDate>true</isFromConclusionDate>
+                        <endDate>2026-12-15</endDate>
+                    </notRelativeTermsInfo>
+                </termsInfo>
+                <paymentsSumInfo>
+                    <paymentsSum>1368900.00</paymentsSum>
+                    <advancePaymentSumInfo>
+                        <sum>0.00</sum>
+                        <sumInPercents>0.0</sumInPercents>
+                    </advancePaymentSumInfo>
+                    <nonbudgetFinancingsInfo>
+                        <sid>36571748</sid>
+                        <KVR>244</KVR>
+                        <paymentYearsInfo>
+                            <paymentYearInfo>
+                                <paymentYear>2026</paymentYear>
+                                <paymentSum>1368900.00</paymentSum>
+                            </paymentYearInfo>
+                        </paymentYearsInfo>
+                    </nonbudgetFinancingsInfo>
+                </paymentsSumInfo>
+            </stageInfo>
+        </stagesInfo>
+        <deliveryPlaceInfo>
+            <byGARInfo>
+                <ns2:sid>27833692</ns2:sid>
+                <ns2:countryInfo>
+                    <ns3:countryCode>643</ns3:countryCode>
+                    <ns3:countryFullName>Российская Федерация</ns3:countryFullName>
+                </ns2:countryInfo>
+                <ns2:GARInfo>
+                    <ns2:GARGuid>119f030e-bc23-4884-904a-8e9e93ce83e0</ns2:GARGuid>
+                    <ns2:GARAddress>обл Ульяновская, г.о. город Ульяновск, г Ульяновск, ул Ефремова, д. 7</ns2:GARAddress>
+                </ns2:GARInfo>
+            </byGARInfo>
+        </deliveryPlaceInfo>
+        <contractGuaranteeInfo>
+            <isContractGuarantee>true</isContractGuarantee>
+            <part>5.0</part>
+            <amount>118567.41</amount>
+            <procedureInfo>1. Исполнение контракта обеспечивается предоставлением независимой гарантии, соответствующей требованиям статьи 45 Федерального закона от 05.04.2013 № 44-ФЗ, или внесением денежных средств на счёт, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими заказчику. Способ обеспечения исполнения контракта, срок действия независимой гарантии определяются в соответствии с требованиями Федерального закона от 05.04.2013 № 44-ФЗ участником закупки, с которым заключается контракт, самостоятельно. При этом срок действия независимой гарантии должен превышать предусмотренный контрактом срок исполнения обязательств, которые должны быть обеспечены такой независимой гарантией, не менее чем на один месяц, в том числе в случае его изменения в соответствии со статьей 95 Федерального закона от 05.04.2013 № 44-ФЗ.
+2. Контракт заключается после предоставления участником закупки, с которым заключается контракт, обеспечения исполнения контракта в соответствии с Федеральным законом от 05.04.2013 № 44-ФЗ. При этом в случае заключения контракта жизненного цикла контракт заключается после предоставления таким участником закупки обеспечения исполнения контракта в части, предусмотренной пунктом 1 части 1.1 статьи 96 Федерального закона от 05.04.2013 № 44-ФЗ.
+3. В случае непредоставления участником закупки, с которым заключается контракт, обеспечения исполнения контракта в срок, установленный для заключения контракта, такой участник считается уклонившимся от заключения контракта.</procedureInfo>
+        </contractGuaranteeInfo>
+        <otherConditionsInfo>
+            <oneSideRejection>true</oneSideRejection>
+        </otherConditionsInfo>
+        <isExecutionStagesTerms>false</isExecutionStagesTerms>
+    </contractConditionsInfo>
+    <contractFinancingInfo>
+        <financingSourcesInfo>
+            <nonbudgetFinancingsInfo>
+                <selfFunds>true</selfFunds>
+            </nonbudgetFinancingsInfo>
+            <bankSupportContractRequiredInfo>
+                <ns2:bankSupportContractRequired>false</ns2:bankSupportContractRequired>
+            </bankSupportContractRequiredInfo>
+        </financingSourcesInfo>
+        <contractPriceInfo>
+            <priceType>P</priceType>
+            <price>1368900.00</price>
+            <currencyInfo>
+                <ns3:code>RUB</ns3:code>
+                <ns3:name>РОССИЙСКИЙ РУБЛЬ</ns3:name>
+            </currencyInfo>
+        </contractPriceInfo>
+        <paymentProcedureInfo>
+            <holdCashCondition>true</holdCashCondition>
+            <amountsReducedByTaxes>true</amountsReducedByTaxes>
+        </paymentProcedureInfo>
+        <paymentsInfo>
+            <paymentYearsInfo>
+                <paymentYearInfo>
+                    <paymentYear>2026</paymentYear>
+                    <paymentSum>1368900.00</paymentSum>
+                </paymentYearInfo>
+                <paymentsSum>1368900.00</paymentsSum>
+            </paymentYearsInfo>
+        </paymentsInfo>
+    </contractFinancingInfo>
+    <attachmentsInfo>
+        <attachmentInfo>
+            <publishedContentId>1F92FFD155DF4907881ACF68ED83A480</publishedContentId>
+            <fileName>4604 Вирус гриппа АВ антигены ИВД набор, иммунохроматографический анализ, экспресс-анализ.docx</fileName>
+            <docDescription>4604 Вирус гриппа АВ антигены ИВД набор, иммунохроматографический анализ, экспресс-анализ</docDescription>
+            <contentId>1F92FFD155DF4907881ACF68ED83A480</contentId>
+            <fileSize>42966</fileSize>
+        </attachmentInfo>
+    </attachmentsInfo>
+    <printFormFieldsInfo>
+        <revisionNumber>1</revisionNumber>
+        <isEstimateContract>false</isEstimateContract>
+    </printFormFieldsInfo>
+</ns6:cpElectronicContract>

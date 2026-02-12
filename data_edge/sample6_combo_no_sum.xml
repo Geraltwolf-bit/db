@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns6:cpElectronicContract schemeVersion="15.3" xmlns="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns6="http://zakupki.gov.ru/oos/printform/1" xmlns:ns5="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns2="http://zakupki.gov.ru/oos/common/1" xmlns:ns4="http://zakupki.gov.ru/oos/types/1" xmlns:ns3="http://zakupki.gov.ru/oos/base/1">
+    <versionNumber>1</versionNumber>
+    <contractNumber>0813500000125021679 </contractNumber>
+    <docType>1</docType>
+    <mainDocInfo>
+        <id>36793772</id>
+    </mainDocInfo>
+    <customerInfo>
+        <ns2:regNum>03132000001</ns2:regNum>
+        <ns2:consRegistryNum>94202958</ns2:consRegistryNum>
+        <ns2:fullName>БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ УДМУРТСКОЙ РЕСПУБЛИКИ "ПЕРВАЯ РЕСПУБЛИКАНСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ УДМУРТСКОЙ РЕСПУБЛИКИ"</ns2:fullName>
+        <ns2:shortName>БУЗ УР "ПЕРВАЯ РЕСПУБЛИКАНСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА МЗ УР"</ns2:shortName>
+        <ns2:postAddress>Российская Федерация, 426039, Удмуртская Респ, Ижевск г, Воткинское шоссе, 57</ns2:postAddress>
+        <ns2:factAddress>Российская Федерация, 426039, Удмуртская Респ, Ижевск г, Воткинское, Д.57</ns2:factAddress>
+        <ns2:INN>1833002854</ns2:INN>
+        <ns2:KPP>184001001</ns2:KPP>
+        <OKOPFInfo>
+            <ns3:code>75203</ns3:code>
+            <ns3:singularName>Государственные бюджетные учреждения субъектов Российской Федерации</ns3:singularName>
+        </OKOPFInfo>
+        <contactPersonInfo>
+            <ns2:lastName>Логинов</ns2:lastName>
+            <ns2:firstName>Иван</ns2:firstName>
+            <ns2:middleName>Викторович</ns2:middleName>
+        </contactPersonInfo>
+        <email>ogz@1rkb.ru</email>
+        <contactPhone>7-3412-693504</contactPhone>
+        <customerAccountsDetailsInfo>
+            <customerAccountDetailsInfo>
+                <ns2:sid>174688496</ns2:sid>
+                <ns2:accountType>02</ns2:accountType>
+                <ns2:personalAccountNumber>22855721360</ns2:personalAccountNumber>
+                <ns2:creditOrgName>УФК по Удмуртской Республике</ns2:creditOrgName>
+                <ns2:detailsCreditOrgText>ОКЦ № 9 ВВГУ Банка России // УФК по Удмуртской Республике, г. Ижевск</ns2:detailsCreditOrgText>
+                <ns2:bankAccountNumber>03224643940000001300</ns2:bankAccountNumber>
+                <ns2:bik>019401100</ns2:bik>
+                <ns2:corrAccountNumber>40102810545370000081</ns2:corrAccountNumber>
+            </customerAccountDetailsInfo>
+        </customerAccountsDetailsInfo>
+    </customerInfo>
+    <participantInfo>
+        <individualPersonRFInfo>
+            <nameInfo>
+                <ns2:lastName>ПЕРЦЕВ</ns2:lastName>
+                <ns2:firstName>ДМИТРИЙ</ns2:firstName>
+                <ns2:middleName>СЕРГЕЕВИЧ</ns2:middleName>
+            </nameInfo>
+            <isIP>true</isIP>
+            <INN>213004261226</INN>
+            <factAddress>109651, Г.МОСКВА, вн.тер.г. МУНИЦИПАЛЬНЫЙ ОКРУГ МАРЬИНО, УЛ ДОНЕЦКАЯ, Д. 34, К. 1, КВ. 461</factAddress>
+            <postAddress>109651, Г.МОСКВА, вн.тер.г. МУНИЦИПАЛЬНЫЙ ОКРУГ МАРЬИНО, УЛ ДОНЕЦКАЯ, Д. 34, К. 1, КВ. 461</postAddress>
+            <email>info@dmamed.ru</email>
+            <contactPhone>7 9686648550</contactPhone>
+        </individualPersonRFInfo>
+        <contractorRegistryNum>25073449</contractorRegistryNum>
+        <status>
+            <ns3:code>30</ns3:code>
+            <ns3:name>Субъект малого предпринимательства</ns3:name>
+        </status>
+        <participantAccountsDetailsInfo>
+            <electronicContractAccountsDetailsInfo>
+                <electronicContractAccountDetailsInfo>
+                    <ns2:sid>174681772</ns2:sid>
+                    <ns2:accountType>03</ns2:accountType>
+                    <ns2:creditOrgName>Филиал "Центральный" Банка ВТБ (ПАО)</ns2:creditOrgName>
+                    <ns2:detailsCreditOrgText>Филиал "Центральный" Банка ВТБ (ПАО), г. Москва</ns2:detailsCreditOrgText>
+                    <ns2:bankAccountNumber>40802810100810130254</ns2:bankAccountNumber>
+                    <ns2:bik>044525411</ns2:bik>
+                    <ns2:corrAccountNumber>30101810145250000411</ns2:corrAccountNumber>
+                    <ns2:counterparty160Name>ПЕРЦЕВ ДМИТРИЙ СЕРГЕЕВИЧ (ИП)</ns2:counterparty160Name>
+                    <organizationType>L</organizationType>
+                </electronicContractAccountDetailsInfo>
+            </electronicContractAccountsDetailsInfo>
+        </participantAccountsDetailsInfo>
+    </participantInfo>
+    <foundationInfo>
+        <placingWay>
+            <ns3:code>EA20</ns3:code>
+            <ns3:name>Электронный аукцион</ns3:name>
+        </placingWay>
+        <purchaseCode>252183300285418400100114000012120244</purchaseCode>
+        <purchaseNumber>0813500000125021679</purchaseNumber>
+        <protocolInfo>
+            <name>Протокол подведения итогов определения поставщика (подрядчика, исполнителя)</name>
+            <number>ИЭА1</number>
+            <publishDTInEIS>2025-11-24T00:00:00.000+03:00</publishDTInEIS>
+        </protocolInfo>
+    </foundationInfo>
+    <contractSubjectInfo>
+        <contractSubject>зз-0014-48409 - 2025 Медицинские изделия: поставка экспресс-тестов для клинико-диагностической лаборатории</contractSubject>
+        <productsInfo>
+            <productsInfoElectronicContract>
+                <productInfo>
+                    <sid>76266825</sid>
+                    <protocolObjectSid>95322592</protocolObjectSid>
+                    <protocolObjectExternalSid>cc57a37e-d2bb-3195-7a5f-55559145b16e</protocolObjectExternalSid>
+                    <purchaseObjectSid>196151150</purchaseObjectSid>
+                    <purchaseObjectExternalSid>583c0705-eb91-4e0a-ae8a-267a4c558ea5</purchaseObjectExternalSid>
+                    <indexNum>1</indexNum>
+                    <name>Вирус гепатита С общие антитела ИВД, набор, иммунохроматографический анализ, экспресс-анализ</name>
+                    <OKPD2Info>
+                        <ns3:OKPDCode>21.20.23.110</ns3:OKPDCode>
+                        <ns3:OKPDName>Реагенты диагностические</ns3:OKPDName>
+                    </OKPD2Info>
+                    <KTRUInfo>
+                        <ns3:code>21.20.23.110-00008479</ns3:code>
+                        <ns3:name>Вирус гепатита С общие антитела ИВД, набор, иммунохроматографический анализ, экспресс-анализ</ns3:name>
+                        <ns3:versionId>71783</ns3:versionId>
+                        <ns3:versionNumber>1</ns3:versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <ns2:sid>200738216</ns2:sid>
+                                <ns2:notificationSid>253640470</ns2:notificationSid>
+                                <ns2:notificationExternalSid>e699be1d-2355-48ec-a968-af17853f4ec7</ns2:notificationExternalSid>
+                                <ns2:code>e0edb638-1</ns2:code>
+                                <ns2:name>Количество выполняемых тестов</ns2:name>
+                                <ns2:type>2</ns2:type>
+                                <ns2:kind>1</ns2:kind>
+                                <ns2:values>
+                                    <ns2:value>
+                                        <ns2:sid>211177624</ns2:sid>
+                                        <ns2:notificationSid>324886976</ns2:notificationSid>
+                                        <ns2:notificationExternalSid>bd120719-2318-46af-8032-7d7f7f7e9b18</ns2:notificationExternalSid>
+                                        <ns2:OKEI>
+                                            <ns3:code>796</ns3:code>
+                                            <ns3:nationalCode>ШТ</ns3:nationalCode>
+                                            <ns3:name>Штука</ns3:name>
+                                        </ns2:OKEI>
+                                        <ns2:valueFormat>N</ns2:valueFormat>
+                                        <ns2:rangeSet>
+                                            <ns2:valueRange>
+                                                <ns2:minMathNotation>greaterOrEqual</ns2:minMathNotation>
+                                                <ns2:min>1</ns2:min>
+                                            </ns2:valueRange>
+                                        </ns2:rangeSet>
+                                    </ns2:value>
+                                </ns2:values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRUInfo>
+                    <hierarchyType>ND</hierarchyType>
+                    <type>PRODUCT</type>
+                    <medicalProductInfo>
+                        <isMedicalProductInfo>true</isMedicalProductInfo>
+                        <medicalProductCode>287370</medicalProductCode>
+                        <medicalProductName>Вирус гепатита С общие антитела ИВД, набор, иммунохроматографический анализ, экспресс-анализ</medicalProductName>
+                        <certificateNameMedicalProduct>Набор реагентов "Панель для выявления маркеров социально опасных заболеваний - НВsAg, антител к ВИЧ-1,2, антител к вирусу гепатита С и антител к Treponema pallidum" (ЭкспрессМ-4-ИППП) по ТУ 21.20.23-004-40341780-2021 </certificateNameMedicalProduct>
+                    </medicalProductInfo>
+                    <trademarkInfo>
+                        <trademark>экспресс мануфактура</trademark>
+                    </trademarkInfo>
+                    <OKEIInfo>
+                        <ns3:code>704</ns3:code>
+                        <ns3:nationalCode>набор</ns3:nationalCode>
+                        <ns3:name>Набор</ns3:name>
+                    </OKEIInfo>
+                    <price>40.23421233186</price>
+                    <originCountryInfo>
+                        <ns3:countryCode>643</ns3:countryCode>
+                        <ns3:countryFullName>Российская Федерация</ns3:countryFullName>
+                    </originCountryInfo>
+                    <VATRateInfo>
+                        <ns3:VATCode>RN</ns3:VATCode>
+                        <ns3:VATName>Без НДС</ns3:VATName>
+                    </VATRateInfo>
+                </productInfo>
+                <productInfo>
+                    <sid>76266826</sid>
+                    <protocolObjectSid>95322593</protocolObjectSid>
+                    <protocolObjectExternalSid>940c6c4b-9023-f9d0-1031-f095c394cb7e</protocolObjectExternalSid>
+                    <purchaseObjectSid>196151151</purchaseObjectSid>
+                    <purchaseObjectExternalSid>082a0861-1871-4097-b3c9-eaf5a0a16e12</purchaseObjectExternalSid>
+                    <indexNum>2</indexNum>
+                    <name>Вирус гепатита В поверхностный антиген ИВД, набор, иммунохроматографический анализ, экспресс-анализ</name>
+                    <OKPD2Info>
+                        <ns3:OKPDCode>21.20.23.110</ns3:OKPDCode>
+                        <ns3:OKPDName>Реагенты диагностические</ns3:OKPDName>
+                    </OKPD2Info>
+                    <KTRUInfo>
+                        <ns3:code>21.20.23.110-00008391</ns3:code>
+                        <ns3:name>Вирус гепатита В поверхностный антиген ИВД, набор, иммунохроматографический анализ, экспресс-анализ</ns3:name>
+                        <ns3:versionId>71436</ns3:versionId>
+                        <ns3:versionNumber>1</ns3:versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <ns2:sid>200738217</ns2:sid>
+                                <ns2:notificationSid>253640471</ns2:notificationSid>
+                                <ns2:notificationExternalSid>f9a3d142-a810-47da-9a72-c7e6015e1ad1</ns2:notificationExternalSid>
+                                <ns2:code>69ebed7b-4</ns2:code>
+                                <ns2:name>Количество выполняемых тестов</ns2:name>
+                                <ns2:type>2</ns2:type>
+                                <ns2:kind>1</ns2:kind>
+                                <ns2:values>
+                                    <ns2:value>
+                                        <ns2:sid>211177625</ns2:sid>
+                                        <ns2:notificationSid>324886977</ns2:notificationSid>
+                                        <ns2:notificationExternalSid>b50fd59f-74f0-4fa6-9aab-82c178c9860c</ns2:notificationExternalSid>
+                                        <ns2:OKEI>
+                                            <ns3:code>796</ns3:code>
+                                            <ns3:nationalCode>ШТ</ns3:nationalCode>
+                                            <ns3:name>Штука</ns3:name>
+                                        </ns2:OKEI>
+                                        <ns2:valueFormat>N</ns2:valueFormat>
+                                        <ns2:rangeSet>
+                                            <ns2:valueRange>
+                                                <ns2:minMathNotation>greaterOrEqual</ns2:minMathNotation>
+                                                <ns2:min>1</ns2:min>
+                                            </ns2:valueRange>
+                                        </ns2:rangeSet>
+                                    </ns2:value>
+                                </ns2:values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRUInfo>
+                    <hierarchyType>ND</hierarchyType>
+                    <type>PRODUCT</type>
+                    <medicalProductInfo>
+                        <isMedicalProductInfo>true</isMedicalProductInfo>
+                        <medicalProductCode>285680</medicalProductCode>
+                        <medicalProductName>Вирус гепатита В поверхностный антиген ИВД, набор, иммунохроматографический анализ, экспресс-анализ</medicalProductName>
+                        <certificateNameMedicalProduct>Набор реагентов "Панель для выявления маркеров социально опасных заболеваний - НВsAg, антител к ВИЧ-1,2, антител к вирусу гепатита С и антител к Treponema pallidum" (ЭкспрессМ-4-ИППП) по ТУ 21.20.23-004-40341780-2021 </certificateNameMedicalProduct>
+                    </medicalProductInfo>
+                    <trademarkInfo>
+                        <trademark>экспресс мануфактура</trademark>
+                    </trademarkInfo>
+                    <OKEIInfo>
+                        <ns3:code>704</ns3:code>
+                        <ns3:nationalCode>набор</ns3:nationalCode>
+                        <ns3:name>Набор</ns3:name>
+                    </OKEIInfo>
+                    <price>25.89412566579</price>
+                    <originCountryInfo>
+                        <ns3:countryCode>643</ns3:countryCode>
+                        <ns3:countryFullName>Российская Федерация</ns3:countryFullName>
+                    </originCountryInfo>
+                    <VATRateInfo>
+                        <ns3:VATCode>RN</ns3:VATCode>
+                        <ns3:VATName>Без НДС</ns3:VATName>
+                    </VATRateInfo>
+                </productInfo>
+                <productInfo>
+                    <sid>76266827</sid>
+                    <protocolObjectSid>95322594</protocolObjectSid>
+                    <protocolObjectExternalSid>7ae266ea-568d-fd18-6ab5-da4dace3a901</protocolObjectExternalSid>
+                    <purchaseObjectSid>196151152</purchaseObjectSid>
+                    <purchaseObjectExternalSid>4f3c8d84-af7a-413b-9ca2-050ab00dc055</purchaseObjectExternalSid>
+                    <indexNum>3</indexNum>
+                    <name>Вирус гепатита А антитела класса IgG/IgM ИВД, набор, иммунохроматографический анализ, экспресс-анализ</name>
+                    <OKPD2Info>
+                        <ns3:OKPDCode>21.20.23.110</ns3:OKPDCode>
+                        <ns3:OKPDName>Реагенты диагностические</ns3:OKPDName>
+                    </OKPD2Info>
+                    <KTRUInfo>
+                        <ns3:code>21.20.23.110-00010857</ns3:code>
+                        <ns3:name>Вирус гепатита А антитела класса IgG/IgM ИВД, набор, иммунохроматографический анализ, экспресс-анализ</ns3:name>
+                        <ns3:versionId>131390</ns3:versionId>
+                        <ns3:versionNumber>1</ns3:versionNumber>
+                        <characteristics>
+                            <characteristicsUsingTextForm>
+                                <ns2:sid>200738218</ns2:sid>
+                                <ns2:notificationSid>253640472</ns2:notificationSid>
+                                <ns2:notificationExternalSid>eede23d6-ebba-4429-8d97-b8c31fe14975</ns2:notificationExternalSid>
+                                <ns2:name>Исследуемый биологический материал</ns2:name>
+                                <ns2:type>1</ns2:type>
+                                <ns2:values>
+                                    <ns2:value>
+                                        <ns2:sid>211177626</ns2:sid>
+                                        <ns2:notificationSid>324886978</ns2:notificationSid>
+                                        <ns2:notificationExternalSid>6ce681e1-169b-458e-96d1-c15cc112ab05</ns2:notificationExternalSid>
+                                        <ns2:qualityDescription>Сыворотка крови, плазма крови</ns2:qualityDescription>
+                                    </ns2:value>
+                                </ns2:values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <ns2:sid>200738219</ns2:sid>
+                                <ns2:notificationSid>253640473</ns2:notificationSid>
+                                <ns2:notificationExternalSid>cb32e52f-dbc4-4230-9e3b-98dbf1d47872</ns2:notificationExternalSid>
+                                <ns2:name>Количество выполняемых тестов</ns2:name>
+                                <ns2:type>2</ns2:type>
+                                <ns2:values>
+                                    <ns2:value>
+                                        <ns2:sid>211177627</ns2:sid>
+                                        <ns2:notificationSid>324886979</ns2:notificationSid>
+                                        <ns2:notificationExternalSid>648f71a0-3b19-44d9-8eca-d41898396304</ns2:notificationExternalSid>
+                                        <ns2:OKEI>
+                                            <ns3:code>796</ns3:code>
+                                            <ns3:nationalCode>ШТ</ns3:nationalCode>
+                                            <ns3:name>Штука</ns3:name>
+                                        </ns2:OKEI>
+                                        <ns2:valueFormat>N</ns2:valueFormat>
+                                        <ns2:rangeSet>
+                                            <ns2:valueRange>
+                                                <ns2:minMathNotation>greaterOrEqual</ns2:minMathNotation>
+                                                <ns2:min>1</ns2:min>
+                                            </ns2:valueRange>
+                                        </ns2:rangeSet>
+                                    </ns2:value>
+                                </ns2:values>
+                            </characteristicsUsingTextForm>
+                        </characteristics>
+                    </KTRUInfo>
+                    <hierarchyType>ND</hierarchyType>
+                    <type>PRODUCT</type>
+                    <medicalProductInfo>
+                        <isMedicalProductInfo>true</isMedicalProductInfo>
+                        <medicalProductCode>356490</medicalProductCode>
+                        <medicalProductName>Вирус гепатита А антитела класса иммуноглобулин G и М (IgG/IgM) ИВД, набор, иммунохроматографический анализ, экспресс-анализ</medicalProductName>
+                        <certificateNameMedicalProduct>Экспресс-тест иммунохроматографический для качественного in vitro обнаружения антител IgG и/или IgM к вирусу гепатита А в цельной крови, сыворотке или плазме человека "АнтиНАVGM-ИМБИАН-ИХА" </certificateNameMedicalProduct>
+                    </medicalProductInfo>
+                    <trademarkInfo>
+                        <trademark>imbian</trademark>
+                    </trademarkInfo>
+                    <OKEIInfo>
+                        <ns3:code>796</ns3:code>
+                        <ns3:nationalCode>ШТ</ns3:nationalCode>
+                        <ns3:name>Штука</ns3:name>
+                    </OKEIInfo>
+                    <price>190.86038277512</price>
+                    <originCountryInfo>
+                        <ns3:countryCode>643</ns3:countryCode>
+                        <ns3:countryFullName>Российская Федерация</ns3:countryFullName>
+                    </originCountryInfo>
+                    <VATRateInfo>
+                        <ns3:VATCode>RN</ns3:VATCode>
+                        <ns3:VATName>Без НДС</ns3:VATName>
+                    </VATRateInfo>
+                </productInfo>
+                <productInfo>
+                    <sid>76266828</sid>
+                    <protocolObjectSid>95322595</protocolObjectSid>
+                    <protocolObjectExternalSid>64b61323-633e-9a75-f5b7-c48318db836b</protocolObjectExternalSid>
+                    <purchaseObjectSid>196151153</purchaseObjectSid>
+                    <purchaseObjectExternalSid>46b1640a-bee7-47b7-a97a-9a858c589b1e</purchaseObjectExternalSid>
+                    <indexNum>4</indexNum>
+                    <name>ВИЧ1/ВИЧ2 антитела ИВД, набор, иммунохроматографический анализ, экспресс-анализ</name>
+                    <OKPD2Info>
+                        <ns3:OKPDCode>21.20.23.110</ns3:OKPDCode>
+                        <ns3:OKPDName>Реагенты диагностические</ns3:OKPDName>
+                    </OKPD2Info>
+                    <KTRUInfo>
+                        <ns3:code>21.20.23.110-00005387</ns3:code>
+                        <ns3:name>ВИЧ1/ВИЧ2 антитела ИВД, набор, иммунохроматографический анализ, экспресс-анализ</ns3:name>
+                        <ns3:versionId>66796</ns3:versionId>
+                        <ns3:versionNumber>1</ns3:versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <ns2:sid>200738220</ns2:sid>
+                                <ns2:notificationSid>253640474</ns2:notificationSid>
+                                <ns2:notificationExternalSid>6ced74f2-30ae-4a1c-a71b-1c8ae7478b84</ns2:notificationExternalSid>
+                                <ns2:code>01cab0cc-9</ns2:code>
+                                <ns2:name>Количество выполняемых тестов</ns2:name>
+                                <ns2:type>2</ns2:type>
+                                <ns2:kind>1</ns2:kind>
+                                <ns2:values>
+                                    <ns2:value>
+                                        <ns2:sid>211177628</ns2:sid>
+                                        <ns2:notificationSid>324886980</ns2:notificationSid>
+                                        <ns2:notificationExternalSid>defc6af3-1886-4e00-82f1-7eca4e300e41</ns2:notificationExternalSid>
+                                        <ns2:OKEI>
+                                            <ns3:code>796</ns3:code>
+                                            <ns3:nationalCode>ШТ</ns3:nationalCode>
+                                            <ns3:name>Штука</ns3:name>
+                                        </ns2:OKEI>
+                                        <ns2:valueFormat>N</ns2:valueFormat>
+                                        <ns2:rangeSet>
+                                            <ns2:valueRange>
+                                                <ns2:minMathNotation>greaterOrEqual</ns2:minMathNotation>
+                                                <ns2:min>1</ns2:min>
+                                            </ns2:valueRange>
+                                        </ns2:rangeSet>
+                                    </ns2:value>
+                                </ns2:values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRUInfo>
+                    <hierarchyType>ND</hierarchyType>
+                    <type>PRODUCT</type>
+                    <medicalProductInfo>
+                        <isMedicalProductInfo>true</isMedicalProductInfo>
+                        <medicalProductCode>110060</medicalProductCode>
+                        <medicalProductName>ВИЧ1/ВИЧ2 антитела ИВД, набор, иммунохроматографический анализ, экспресс-анализ</medicalProductName>
+                        <certificateNameMedicalProduct>Набор реагентов "Панель для выявления маркеров социально опасных заболеваний - НВsAg, антител к ВИЧ-1,2, антител к вирусу гепатита С и антител к Treponema pallidum" (ЭкспрессМ-4-ИППП) по ТУ 21.20.23-004-40341780-2021 </certificateNameMedicalProduct>
+                    </medicalProductInfo>
+                    <trademarkInfo>
+                        <trademark>экспресс мануфактура</trademark>
+                    </trademarkInfo>
+                    <OKEIInfo>
+                        <ns3:code>704</ns3:code>
+                        <ns3:nationalCode>набор</ns3:nationalCode>
+                        <ns3:name>Набор</ns3:name>
+                    </OKEIInfo>
+                    <price>49.07127922723</price>
+                    <originCountryInfo>
+                        <ns3:countryCode>643</ns3:countryCode>
+                        <ns3:countryFullName>Российская Федерация</ns3:countryFullName>
+                    </originCountryInfo>
+                    <VATRateInfo>
+                        <ns3:VATCode>RN</ns3:VATCode>
+                        <ns3:VATName>Без НДС</ns3:VATName>
+                    </VATRateInfo>
+                </productInfo>
+                <quantityUndefined>true</quantityUndefined>
+            </productsInfoElectronicContract>
+        </productsInfo>
+    </contractSubjectInfo>
+    <contractConditionsInfo>
+        <contractExecutionTermsInfo>
+            <notRelativeTermsInfo>
+                <startDate>2026-01-01</startDate>
+                <isNotEarlierConclusionDate>true</isNotEarlierConclusionDate>
+                <endDate>2026-12-31</endDate>
+            </notRelativeTermsInfo>
+        </contractExecutionTermsInfo>
+        <stagesInfo>
+            <stageInfo>
+                <sid>28285618</sid>
+                <purchaseStageSid>17495721</purchaseStageSid>
+                <purchaseStageExternalSid>97f741c9-5ed2-4fdd-9c57-b0c058dadb5b</purchaseStageExternalSid>
+                <termsInfo>
+                    <notRelativeTermsInfo>
+                        <startDate>2026-01-01</startDate>
+                        <isNotEarlierConclusionDate>true</isNotEarlierConclusionDate>
+                        <endDate>2026-12-31</endDate>
+                    </notRelativeTermsInfo>
+                </termsInfo>
+                <paymentsSumInfo>
+                    <paymentsSum>129686.50</paymentsSum>
+                    <advancePaymentSumInfo>
+                        <sum>0.00</sum>
+                    </advancePaymentSumInfo>
+                    <nonbudgetFinancingsInfo>
+                        <sid>30120636</sid>
+                        <KVR>244</KVR>
+                        <paymentYearsInfo>
+                            <paymentYearInfo>
+                                <paymentYear>2026</paymentYear>
+                                <paymentSum>129686.50</paymentSum>
+                            </paymentYearInfo>
+                        </paymentYearsInfo>
+                    </nonbudgetFinancingsInfo>
+                </paymentsSumInfo>
+            </stageInfo>
+        </stagesInfo>
+        <deliveryPlaceInfo>
+            <byGARInfo>
+                <ns2:sid>23429134</ns2:sid>
+                <ns2:countryInfo>
+                    <ns3:countryCode>643</ns3:countryCode>
+                    <ns3:countryFullName>Российская Федерация</ns3:countryFullName>
+                </ns2:countryInfo>
+                <ns2:GARInfo>
+                    <ns2:GARGuid>52618b9c-bcbb-47e7-8957-95c63f0b17cc</ns2:GARGuid>
+                    <ns2:GARAddress>Респ Удмуртская</ns2:GARAddress>
+                </ns2:GARInfo>
+                <ns2:deliveryPlace>г. Ижевск, ул. Воткинское шоссе, д. 57, бюджетное учреждение здравоохранения Удмуртской Республики «Первая республиканская клиническая больница Министерства здравоохранения Удмуртской Республики», стационар (аптека, 7 этаж); тел.: 8 (3412) 693-599, 465-692</ns2:deliveryPlace>
+            </byGARInfo>
+        </deliveryPlaceInfo>
+        <contractGuaranteeInfo>
+            <isContractGuarantee>true</isContractGuarantee>
+            <part>15.0</part>
+            <amount>19452.98</amount>
+            <procedureInfo>Обеспечение исполнения контракта предоставляется по выбору участника закупки одним из следующих способов: путем внесения денежных средств по реквизитам, указанным в разделе извещения "Обеспечение исполнения контракта", либо путем предоставления независимой гарантии, соответствующей требованиям статьи 45 Закона 44-ФЗ. Срок действия независимой гарантии должен превышать предусмотренный контрактом срок исполнения обязательств, которые должны быть обеспечены такой независимой гарантией, не менее чем на один месяц, в том числе в случае его изменения в соответствии со статьей 95 Закона 44-ФЗ. Независимая гарантия должна быть составлена по соответствующей типовой форме, утвержденной постановлением Правительства РФ от 08.11.2013 № 1005. Документ, подтверждающий предоставление обеспечения исполнения контракта участник закупки размещает на электронной площадке одновременно с размещением подписанного со своей стороны проекта контракта.Участник закупки, с которым заключается контракт по результатам определения поставщика (подрядчика, исполнителя) в соответствии с пунктом 1 части 1 статьи 30 Закона 44-ФЗ, освобождается от предоставления обеспечения исполнения контракта в случае предоставления таким участником закупки информации, содержащейся в реестре контрактов, заключенных заказчиками, и подтверждающей исполнение таким участником (без учета правопреемства) в течение трех лет до даты подачи заявки на участие в закупке трех контрактов, исполненных без применения к такому участнику неустоек (штрафов, пеней). Такая информация представляется участником закупки до заключения контракта. При этом сумма цен таких контрактов должна составлять не менее начальной (максимальной) цены контракта. Для совместных закупок - не менее суммы начальных (максимальных) цен каждого контракта, заключаемого по результатам проведения совместной закупки, указанной в извещении об осуществлении совместной закупки.</procedureInfo>
+            <isAntidumping>true</isAntidumping>
+        </contractGuaranteeInfo>
+        <otherConditionsInfo>
+            <oneSideRejection>true</oneSideRejection>
+        </otherConditionsInfo>
+    </contractConditionsInfo>
+    <contractFinancingInfo>
+        <financingSourcesInfo>
+            <nonbudgetFinancingsInfo>
+                <selfFunds>true</selfFunds>
+            </nonbudgetFinancingsInfo>
+            <bankSupportContractRequiredInfo>
+                <ns2:bankSupportContractRequired>false</ns2:bankSupportContractRequired>
+            </bankSupportContractRequiredInfo>
+        </financingSourcesInfo>
+        <contractPriceInfo>
+            <priceType>MP</priceType>
+            <price>129686.50</price>
+            <currencyInfo>
+                <ns3:code>RUB</ns3:code>
+                <ns3:name>РОССИЙСКИЙ РУБЛЬ</ns3:name>
+            </currencyInfo>
+        </contractPriceInfo>
+        <paymentProcedureInfo>
+            <holdCashCondition>false</holdCashCondition>
+            <amountsReducedByTaxes>false</amountsReducedByTaxes>
+        </paymentProcedureInfo>
+        <paymentsInfo>
+            <paymentYearsInfo>
+                <paymentYearInfo>
+                    <paymentYear>2026</paymentYear>
+                    <paymentSum>129686.50</paymentSum>
+                </paymentYearInfo>
+                <paymentsSum>129686.50</paymentsSum>
+            </paymentYearsInfo>
+        </paymentsInfo>
+    </contractFinancingInfo>
+    <attachmentsInfo>
+        <attachmentInfo>
+            <publishedContentId>D2DE3A3583EF4A538E8BA85B6ACCF560</publishedContentId>
+            <fileName>0813500000125021679 Медицинские изделия поставка экспресс-тестов для клинико-диагностической лаборатории.docx</fileName>
+            <docDescription>0813500000125021679 Медицинские изделия поставка экспресс-тестов для клинико-диагностической лаборатории</docDescription>
+            <contentId>D2DE3A3583EF4A538E8BA85B6ACCF560</contentId>
+            <fileSize>51481</fileSize>
+        </attachmentInfo>
+    </attachmentsInfo>
+    <printFormFieldsInfo>
+        <revisionNumber>1</revisionNumber>
+        <isEstimateContract>false</isEstimateContract>
+    </printFormFieldsInfo>
+</ns6:cpElectronicContract>

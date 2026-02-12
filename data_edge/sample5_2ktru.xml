@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns6:cpElectronicContract schemeVersion="16.0" xmlns="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns6="http://zakupki.gov.ru/oos/printform/1" xmlns:ns5="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns2="http://zakupki.gov.ru/oos/common/1" xmlns:ns4="http://zakupki.gov.ru/oos/types/1" xmlns:ns3="http://zakupki.gov.ru/oos/base/1">
+    <versionNumber>1</versionNumber>
+    <contractNumber>0360300095125000221</contractNumber>
+    <docType>1</docType>
+    <mainDocInfo>
+        <id>42544821</id>
+    </mainDocInfo>
+    <customerInfo>
+        <ns2:regNum>03603000951</ns2:regNum>
+        <ns2:consRegistryNum>63224990</ns2:consRegistryNum>
+        <ns2:fullName>ГОСУДАРСТВЕННОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ САРАТОВСКОЙ ОБЛАСТИ "НОВОУЗЕНСКАЯ РАЙОННАЯ БОЛЬНИЦА"</ns2:fullName>
+        <ns2:shortName>ГУЗ СО  "НОВОУЗЕНСКАЯ РБ"</ns2:shortName>
+        <ns2:postAddress>Российская Федерация, 413360, Саратовская обл, г. Новоузенск, ул. Зеленый Клин, 38</ns2:postAddress>
+        <ns2:factAddress>413362, САРАТОВСКАЯ ОБЛАСТЬ, м.р-н. НОВОУЗЕНСКИЙ, ГОРОД НОВОУЗЕНСК, Г НОВОУЗЕНСК, УЛ ЗЕЛЕНЫЙ КЛИН, Д. 38</ns2:factAddress>
+        <ns2:INN>6422021049</ns2:INN>
+        <ns2:KPP>642201001</ns2:KPP>
+        <OKOPFInfo>
+            <ns3:code>75203</ns3:code>
+            <ns3:singularName>Государственные бюджетные учреждения субъектов Российской Федерации</ns3:singularName>
+        </OKOPFInfo>
+        <contactPersonInfo>
+            <ns2:lastName>Акатова</ns2:lastName>
+            <ns2:firstName>Елена</ns2:firstName>
+            <ns2:middleName>Анатольевна</ns2:middleName>
+        </contactPersonInfo>
+        <email>novouzRB@yandex.ru</email>
+        <contactPhone>7-84562-21855</contactPhone>
+        <customerAccountsDetailsInfo>
+            <customerAccountDetailsInfo>
+                <ns2:sid>201419110</ns2:sid>
+                <ns2:externalSid>2397905481</ns2:externalSid>
+                <ns2:accountType>02</ns2:accountType>
+                <ns2:personalAccountNumber>039030692</ns2:personalAccountNumber>
+                <ns2:creditOrgName>УФК по Саратовской области</ns2:creditOrgName>
+                <ns2:detailsCreditOrgText>ОКЦ № 3 ВВГУ Банка России // УФК по Саратовской области, г. Саратов</ns2:detailsCreditOrgText>
+                <ns2:bankAccountNumber>03224643630000006001</ns2:bankAccountNumber>
+                <ns2:bik>016311121</ns2:bik>
+                <ns2:corrAccountNumber>40102810845370000052</ns2:corrAccountNumber>
+            </customerAccountDetailsInfo>
+        </customerAccountsDetailsInfo>
+    </customerInfo>
+    <participantInfo>
+        <individualPersonRFInfo>
+            <nameInfo>
+                <ns2:lastName>МАКАРЫЧЕВА</ns2:lastName>
+                <ns2:firstName>ОЛЬГА</ns2:firstName>
+                <ns2:middleName>МИХАЙЛОВНА</ns2:middleName>
+            </nameInfo>
+            <isIP>true</isIP>
+            <INN>645502694410</INN>
+            <factAddress>410012, САРАТОВСКАЯ ОБЛАСТЬ, Г. Саратов, УЛ. им Слонова И.А., Д.10/16, 54</factAddress>
+            <postAddress>410078, Саратовская обл. , г. Саратов, ул. Слонова д.10/16 кв.54</postAddress>
+            <email>farmdiagnostika@mail.ru</email>
+            <contactPhone>7 9372251501</contactPhone>
+        </individualPersonRFInfo>
+        <contractorRegistryNum>19092103</contractorRegistryNum>
+        <status>
+            <ns3:code>30</ns3:code>
+            <ns3:name>Субъект малого предпринимательства</ns3:name>
+        </status>
+        <participantAccountsDetailsInfo>
+            <electronicContractAccountsDetailsInfo>
+                <electronicContractAccountDetailsInfo>
+                    <ns2:sid>201419109</ns2:sid>
+                    <ns2:externalSid>2397905482</ns2:externalSid>
+                    <ns2:accountType>03</ns2:accountType>
+                    <ns2:creditOrgName>ПОВОЛЖСКИЙ БАНК ПАО СБЕРБАНК</ns2:creditOrgName>
+                    <ns2:detailsCreditOrgText>ПОВОЛЖСКИЙ БАНК ПАО СБЕРБАНК, г. Самара</ns2:detailsCreditOrgText>
+                    <ns2:bankAccountNumber>40802810056000034462</ns2:bankAccountNumber>
+                    <ns2:bik>043601607</ns2:bik>
+                    <ns2:corrAccountNumber>30101810200000000607</ns2:corrAccountNumber>
+                    <ns2:counterparty160Name>МАКАРЫЧЕВА ОЛЬГА МИХАЙЛОВНА (ИП)</ns2:counterparty160Name>
+                    <organizationType>L</organizationType>
+                </electronicContractAccountDetailsInfo>
+            </electronicContractAccountsDetailsInfo>
+        </participantAccountsDetailsInfo>
+    </participantInfo>
+    <foundationInfo>
+        <placingWay>
+            <ns3:code>EA20</ns3:code>
+            <ns3:name>Электронный аукцион</ns3:name>
+        </placingWay>
+        <purchaseCode>252642202104964220100102160012120244</purchaseCode>
+        <purchaseNumber>0360300095125000221</purchaseNumber>
+        <protocolInfo>
+            <name>Протокол подведения итогов определения поставщика (подрядчика, исполнителя)</name>
+            <number>ИЭА1</number>
+            <publishDTInEIS>2026-01-13T00:00:00.000+03:00</publishDTInEIS>
+        </protocolInfo>
+    </foundationInfo>
+    <contractSubjectInfo>
+        <contractSubject>Поставка экспресс-тестов на гепатиты</contractSubject>
+        <productsInfo>
+            <productsInfoElectronicContract>
+                <productInfo>
+                    <sid>90444418</sid>
+                    <externalSid>2397897288</externalSid>
+                    <protocolObjectSid>104587722</protocolObjectSid>
+                    <purchaseObjectSid>201695149</purchaseObjectSid>
+                    <purchaseObjectExternalSid>2335883294</purchaseObjectExternalSid>
+                    <indexNum>1</indexNum>
+                    <name>Вирус гепатита В поверхностный антиген ИВД, набор, иммунохроматографический анализ, экспресс-анализ</name>
+                    <OKPD2Info>
+                        <ns3:OKPDCode>21.20.23.110</ns3:OKPDCode>
+                        <ns3:OKPDName>Реагенты диагностические</ns3:OKPDName>
+                    </OKPD2Info>
+                    <KTRUInfo>
+                        <ns3:code>21.20.23.110-00008391</ns3:code>
+                        <ns3:name>Вирус гепатита В поверхностный антиген ИВД, набор, иммунохроматографический анализ, экспресс-анализ</ns3:name>
+                        <ns3:versionId>71436</ns3:versionId>
+                        <ns3:versionNumber>1</ns3:versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <ns2:sid>230241150</ns2:sid>
+                                <ns2:externalSid>2397924703</ns2:externalSid>
+                                <ns2:notificationSid>267190983</ns2:notificationSid>
+                                <ns2:notificationExternalSid>2336045253</ns2:notificationExternalSid>
+                                <ns2:code>69ebed7b-4</ns2:code>
+                                <ns2:name>Количество выполняемых тестов</ns2:name>
+                                <ns2:type>2</ns2:type>
+                                <ns2:kind>1</ns2:kind>
+                                <ns2:values>
+                                    <ns2:value>
+                                        <ns2:sid>245470045</ns2:sid>
+                                        <ns2:externalSid>2397924703</ns2:externalSid>
+                                        <ns2:notificationSid>342267390</ns2:notificationSid>
+                                        <ns2:notificationExternalSid>2336045253</ns2:notificationExternalSid>
+                                        <ns2:codeCharacteristicValue>6306e7b1-6</ns2:codeCharacteristicValue>
+                                        <ns2:OKEI>
+                                            <ns3:code>796</ns3:code>
+                                            <ns3:nationalCode>ШТ</ns3:nationalCode>
+                                            <ns3:name>Штука</ns3:name>
+                                        </ns2:OKEI>
+                                        <ns2:valueFormat>N</ns2:valueFormat>
+                                        <ns2:valueSet>
+                                            <ns2:concreteValue>1</ns2:concreteValue>
+                                        </ns2:valueSet>
+                                    </ns2:value>
+                                </ns2:values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRUInfo>
+                    <hierarchyType>ND</hierarchyType>
+                    <type>PRODUCT</type>
+                    <sum>13983.20</sum>
+                    <medicalProductInfo>
+                        <isMedicalProductInfo>true</isMedicalProductInfo>
+                        <medicalProductCode>285680</medicalProductCode>
+                        <medicalProductName>Вирус гепатита В поверхностный антиген ИВД, набор, иммунохроматографический анализ, экспресс-анализ</medicalProductName>
+                    </medicalProductInfo>
+                    <trademarkInfo>
+                        <trademark>890415</trademark>
+                    </trademarkInfo>
+                    <OKEIInfo>
+                        <ns3:code>704</ns3:code>
+                        <ns3:nationalCode>набор</ns3:nationalCode>
+                        <ns3:name>Набор</ns3:name>
+                    </OKEIInfo>
+                    <quantity>1000</quantity>
+                    <price>13.9832</price>
+                    <originCountryInfo>
+                        <ns3:countryCode>643</ns3:countryCode>
+                        <ns3:countryFullName>Российская Федерация</ns3:countryFullName>
+                    </originCountryInfo>
+                    <VATRateInfo>
+                        <ns3:VATCode>R10</ns3:VATCode>
+                        <ns3:VATName>10%</ns3:VATName>
+                    </VATRateInfo>
+                </productInfo>
+                <productInfo>
+                    <sid>90444419</sid>
+                    <externalSid>2397897287</externalSid>
+                    <protocolObjectSid>104587723</protocolObjectSid>
+                    <purchaseObjectSid>201695150</purchaseObjectSid>
+                    <purchaseObjectExternalSid>2335883295</purchaseObjectExternalSid>
+                    <indexNum>2</indexNum>
+                    <name>Вирус гепатита С общие антитела ИВД, набор, иммунохроматографический анализ, экспресс-анализ</name>
+                    <OKPD2Info>
+                        <ns3:OKPDCode>21.20.23.110</ns3:OKPDCode>
+                        <ns3:OKPDName>Реагенты диагностические</ns3:OKPDName>
+                    </OKPD2Info>
+                    <KTRUInfo>
+                        <ns3:code>21.20.23.110-00008479</ns3:code>
+                        <ns3:name>Вирус гепатита С общие антитела ИВД, набор, иммунохроматографический анализ, экспресс-анализ</ns3:name>
+                        <ns3:versionId>71783</ns3:versionId>
+                        <ns3:versionNumber>1</ns3:versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <ns2:sid>230241151</ns2:sid>
+                                <ns2:externalSid>2397924702</ns2:externalSid>
+                                <ns2:notificationSid>267190984</ns2:notificationSid>
+                                <ns2:notificationExternalSid>2336045254</ns2:notificationExternalSid>
+                                <ns2:code>e0edb638-1</ns2:code>
+                                <ns2:name>Количество выполняемых тестов</ns2:name>
+                                <ns2:type>2</ns2:type>
+                                <ns2:kind>1</ns2:kind>
+                                <ns2:values>
+                                    <ns2:value>
+                                        <ns2:sid>245470046</ns2:sid>
+                                        <ns2:externalSid>2397924702</ns2:externalSid>
+                                        <ns2:notificationSid>342267391</ns2:notificationSid>
+                                        <ns2:notificationExternalSid>2336045254</ns2:notificationExternalSid>
+                                        <ns2:codeCharacteristicValue>ffdc07de-5</ns2:codeCharacteristicValue>
+                                        <ns2:OKEI>
+                                            <ns3:code>796</ns3:code>
+                                            <ns3:nationalCode>ШТ</ns3:nationalCode>
+                                            <ns3:name>Штука</ns3:name>
+                                        </ns2:OKEI>
+                                        <ns2:valueFormat>N</ns2:valueFormat>
+                                        <ns2:valueSet>
+                                            <ns2:concreteValue>1</ns2:concreteValue>
+                                        </ns2:valueSet>
+                                    </ns2:value>
+                                </ns2:values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRUInfo>
+                    <hierarchyType>ND</hierarchyType>
+                    <type>PRODUCT</type>
+                    <sum>13983.20</sum>
+                    <medicalProductInfo>
+                        <isMedicalProductInfo>true</isMedicalProductInfo>
+                        <medicalProductCode>287370</medicalProductCode>
+                        <medicalProductName>Вирус гепатита С общие антитела ИВД, набор, иммунохроматографический анализ, экспресс-анализ</medicalProductName>
+                    </medicalProductInfo>
+                    <trademarkInfo>
+                        <trademark>890415</trademark>
+                    </trademarkInfo>
+                    <OKEIInfo>
+                        <ns3:code>704</ns3:code>
+                        <ns3:nationalCode>набор</ns3:nationalCode>
+                        <ns3:name>Набор</ns3:name>
+                    </OKEIInfo>
+                    <quantity>1000</quantity>
+                    <price>13.9832</price>
+                    <originCountryInfo>
+                        <ns3:countryCode>643</ns3:countryCode>
+                        <ns3:countryFullName>Российская Федерация</ns3:countryFullName>
+                    </originCountryInfo>
+                    <VATRateInfo>
+                        <ns3:VATCode>R10</ns3:VATCode>
+                        <ns3:VATName>10%</ns3:VATName>
+                    </VATRateInfo>
+                </productInfo>
+            </productsInfoElectronicContract>
+        </productsInfo>
+    </contractSubjectInfo>
+    <contractConditionsInfo>
+        <contractExecutionTermsInfo>
+            <notRelativeTermsInfo>
+                <isFromConclusionDate>true</isFromConclusionDate>
+                <endDate>2026-05-30</endDate>
+            </notRelativeTermsInfo>
+        </contractExecutionTermsInfo>
+        <stagesInfo>
+            <stageInfo>
+                <sid>33820280</sid>
+                <externalSid>2397665293</externalSid>
+                <purchaseStageSid>18596124</purchaseStageSid>
+                <purchaseStageExternalSid>2335962526</purchaseStageExternalSid>
+                <termsInfo>
+                    <notRelativeTermsInfo>
+                        <isFromConclusionDate>true</isFromConclusionDate>
+                        <endDate>2026-05-30</endDate>
+                    </notRelativeTermsInfo>
+                </termsInfo>
+                <paymentsSumInfo>
+                    <paymentsSum>27966.40</paymentsSum>
+                    <advancePaymentSumInfo>
+                        <sum>0.00</sum>
+                        <sumInPercents>0.0</sumInPercents>
+                    </advancePaymentSumInfo>
+                    <nonbudgetFinancingsInfo>
+                        <sid>36881398</sid>
+                        <externalSid>2397665347</externalSid>
+                        <KVR>244</KVR>
+                        <paymentYearsInfo>
+                            <paymentYearInfo>
+                                <paymentYear>2026</paymentYear>
+                                <paymentSum>27966.40</paymentSum>
+                            </paymentYearInfo>
+                        </paymentYearsInfo>
+                    </nonbudgetFinancingsInfo>
+                </paymentsSumInfo>
+            </stageInfo>
+        </stagesInfo>
+        <deliveryPlaceInfo>
+            <byGARInfo>
+                <ns2:sid>27966976</ns2:sid>
+                <ns2:countryInfo>
+                    <ns3:countryCode>643</ns3:countryCode>
+                    <ns3:countryFullName>Российская Федерация</ns3:countryFullName>
+                </ns2:countryInfo>
+                <ns2:GARInfo>
+                    <ns2:GARGuid>dd93f6bd-824d-4d23-a237-8148ff2ce29c</ns2:GARGuid>
+                    <ns2:GARAddress>обл Саратовская, м.р-н Новоузенский, г.п. город Новоузенск, г Новоузенск, ул Зеленый Клин</ns2:GARAddress>
+                </ns2:GARInfo>
+            </byGARInfo>
+        </deliveryPlaceInfo>
+        <contractGuaranteeInfo>
+            <isContractGuarantee>true</isContractGuarantee>
+            <part>10.0</part>
+            <amount>2796.64</amount>
+            <procedureInfo>-</procedureInfo>
+            <isAntidumping>true</isAntidumping>
+        </contractGuaranteeInfo>
+        <otherConditionsInfo>
+            <oneSideRejection>true</oneSideRejection>
+        </otherConditionsInfo>
+        <isExecutionStagesTerms>false</isExecutionStagesTerms>
+    </contractConditionsInfo>
+    <contractFinancingInfo>
+        <financingSourcesInfo>
+            <nonbudgetFinancingsInfo>
+                <selfFunds>true</selfFunds>
+            </nonbudgetFinancingsInfo>
+            <bankSupportContractRequiredInfo>
+                <ns2:bankSupportContractRequired>false</ns2:bankSupportContractRequired>
+            </bankSupportContractRequiredInfo>
+        </financingSourcesInfo>
+        <contractPriceInfo>
+            <priceType>P</priceType>
+            <price>27966.40</price>
+            <currencyInfo>
+                <ns3:code>RUB</ns3:code>
+                <ns3:name>РОССИЙСКИЙ РУБЛЬ</ns3:name>
+            </currencyInfo>
+        </contractPriceInfo>
+        <paymentProcedureInfo>
+            <holdCashCondition>false</holdCashCondition>
+            <amountsReducedByTaxes>false</amountsReducedByTaxes>
+        </paymentProcedureInfo>
+        <paymentsInfo>
+            <paymentYearsInfo>
+                <paymentYearInfo>
+                    <paymentYear>2026</paymentYear>
+                    <paymentSum>27966.40</paymentSum>
+                </paymentYearInfo>
+                <paymentsSum>27966.40</paymentsSum>
+            </paymentYearsInfo>
+        </paymentsInfo>
+    </contractFinancingInfo>
+    <attachmentsInfo>
+        <attachmentInfo>
+            <publishedContentId>25166187308748D780A0D45CAD50FBBD</publishedContentId>
+            <fileName>Контракт № 0360300095125000221.docx</fileName>
+            <docDescription>Проект контракта</docDescription>
+            <contentId>25166187308748D780A0D45CAD50FBBD</contentId>
+            <fileSize>52532</fileSize>
+            <fileFingerPrint>MUFFOTEyMkMwNkFFQzRENkE3NzY3MjJDODM4OTYzOTNCMkFERDFFRjRBNDY2RTI1MjZGNTQ2NjJCREQwRkEzMA==</fileFingerPrint>
+        </attachmentInfo>
+    </attachmentsInfo>
+    <printFormFieldsInfo>
+        <revisionNumber>1</revisionNumber>
+    </printFormFieldsInfo>
+</ns6:cpElectronicContract>

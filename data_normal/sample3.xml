@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns6:cpElectronicContract schemeVersion="16.0" xmlns="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns6="http://zakupki.gov.ru/oos/printform/1" xmlns:ns5="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns2="http://zakupki.gov.ru/oos/common/1" xmlns:ns4="http://zakupki.gov.ru/oos/types/1" xmlns:ns3="http://zakupki.gov.ru/oos/base/1">
+    <versionNumber>1</versionNumber>
+    <contractNumber>7</contractNumber>
+    <docType>1</docType>
+    <mainDocInfo>
+        <id>42695361</id>
+    </mainDocInfo>
+    <customerInfo>
+        <ns2:regNum>03372000171</ns2:regNum>
+        <ns2:consRegistryNum>29201206</ns2:consRegistryNum>
+        <ns2:fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛУЖСКОЙ ОБЛАСТИ "КАЛУЖСКАЯ ОБЛАСТНАЯ КЛИНИЧЕСКАЯ ДЕТСКАЯ БОЛЬНИЦА"</ns2:fullName>
+        <ns2:shortName>ГБУЗ КО "КОКДБ"</ns2:shortName>
+        <ns2:postAddress>Российская Федерация, 248007, Калужская обл, Калуга г, Вишневского, Д. 1, --</ns2:postAddress>
+        <ns2:factAddress>Российская Федерация, 248007, Калужская обл, Калуга г, Вишневского, Д. 1, --</ns2:factAddress>
+        <ns2:INN>4027022792</ns2:INN>
+        <ns2:KPP>402701001</ns2:KPP>
+        <OKOPFInfo>
+            <ns3:code>75203</ns3:code>
+            <ns3:singularName>Государственные бюджетные учреждения субъектов Российской Федерации</ns3:singularName>
+        </OKOPFInfo>
+        <contactPersonInfo>
+            <ns2:lastName>Зайцев</ns2:lastName>
+            <ns2:firstName>Станислав</ns2:firstName>
+            <ns2:middleName>Викторович</ns2:middleName>
+        </contactPersonInfo>
+        <email>market@dob.kaluga.ru</email>
+        <contactPhone>7-4842-7591016</contactPhone>
+        <customerAccountsDetailsInfo>
+            <customerAccountDetailsInfo>
+                <ns2:sid>202020612</ns2:sid>
+                <ns2:accountType>02</ns2:accountType>
+                <ns2:personalAccountNumber>22740А89570</ns2:personalAccountNumber>
+                <ns2:creditOrgName>УФК по Калужской области</ns2:creditOrgName>
+                <ns2:detailsCreditOrgText>ОКЦ № 9 ГУ Банка России по ЦФО // УФК по Калужской области, г. Калуга</ns2:detailsCreditOrgText>
+                <ns2:bankAccountNumber>03224643290000003700</ns2:bankAccountNumber>
+                <ns2:bik>012908002</ns2:bik>
+                <ns2:corrAccountNumber>40102810045370000030</ns2:corrAccountNumber>
+            </customerAccountDetailsInfo>
+        </customerAccountsDetailsInfo>
+    </customerInfo>
+    <participantInfo>
+        <legalEntityRFInfo>
+            <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "УЛДУЗ"</fullName>
+            <shortName>ООО "УЛДУЗ"</shortName>
+            <INN>5034062212</INN>
+            <KPP>503401001</KPP>
+            <factAddress>142530, МОСКОВСКАЯ ОБЛАСТЬ, г.о. ПАВЛОВО-ПОСАДСКИЙ, Г ЭЛЕКТРОГОРСК, УЛ СВЕРДЛОВА, Д. 11, ПОМЕЩ. 10</factAddress>
+            <postAddress>142530, ОБЛ МОСКОВСКАЯ, Г Электрогорск, УЛ СВЕРДЛОВА, Д. 11, ПОМЕЩ. 10</postAddress>
+            <email>ekolab-centr@mail.ru</email>
+            <contactPhone>7 9255505015</contactPhone>
+            <informationPersonsInfo>
+                <informationPersonInfo>
+                    <nameInfo>
+                        <ns2:lastName>МАРДАНЛЫ</ns2:lastName>
+                        <ns2:firstName>ВАФА</ns2:firstName>
+                        <ns2:middleName>ШАХИН КЫЗЫ</ns2:middleName>
+                    </nameInfo>
+                    <INN>503513711190</INN>
+                    <position>ГЕНЕРАЛЬНЫЙ ДИРЕКТОР</position>
+                </informationPersonInfo>
+            </informationPersonsInfo>
+        </legalEntityRFInfo>
+        <contractorRegistryNum>22066693</contractorRegistryNum>
+        <status>
+            <ns3:code>30</ns3:code>
+            <ns3:name>Субъект малого предпринимательства</ns3:name>
+        </status>
+        <participantAccountsDetailsInfo>
+            <electronicContractAccountsDetailsInfo>
+                <electronicContractAccountDetailsInfo>
+                    <ns2:sid>202015366</ns2:sid>
+                    <ns2:accountType>03</ns2:accountType>
+                    <ns2:creditOrgName>ПАО Сбербанк</ns2:creditOrgName>
+                    <ns2:detailsCreditOrgText>ПАО Сбербанк, г. Москва</ns2:detailsCreditOrgText>
+                    <ns2:bankAccountNumber>40702810640000122400</ns2:bankAccountNumber>
+                    <ns2:bik>044525225</ns2:bik>
+                    <ns2:corrAccountNumber>30101810400000000225</ns2:corrAccountNumber>
+                    <ns2:counterparty160Name>ООО "УЛДУЗ"</ns2:counterparty160Name>
+                    <organizationType>L</organizationType>
+                </electronicContractAccountDetailsInfo>
+            </electronicContractAccountsDetailsInfo>
+        </participantAccountsDetailsInfo>
+    </participantInfo>
+    <foundationInfo>
+        <placingWay>
+            <ns3:code>ZK20</ns3:code>
+            <ns3:name>Запрос котировок в электронной форме</ns3:name>
+        </placingWay>
+        <purchaseCode>252402702279240270100101430012120244</purchaseCode>
+        <purchaseNumber>0137200001225009305</purchaseNumber>
+        <protocolInfo>
+            <name>Протокол подведения итогов определения поставщика (подрядчика, исполнителя)</name>
+            <number>ИЗК1</number>
+            <publishDTInEIS>2026-01-16T00:00:00.000+03:00</publishDTInEIS>
+        </protocolInfo>
+    </foundationInfo>
+    <contractSubjectInfo>
+        <contractSubject>Поставка наборов реагентов для выявления антигена коронавируса SARS-CoV-2 и антигенов гриппа А/В в биологическом материале</contractSubject>
+        <productsInfo>
+            <productsInfoElectronicContract>
+                <productInfo>
+                    <sid>91016557</sid>
+                    <protocolObjectSid>105282151</protocolObjectSid>
+                    <purchaseObjectSid>201926114</purchaseObjectSid>
+                    <purchaseObjectExternalSid>4297fa85-652a-4efd-9baf-76378dbd392d</purchaseObjectExternalSid>
+                    <indexNum>1</indexNum>
+                    <name>SARS Коронавирус 2/Вирус гриппа А/В антигены ИВД, набор, иммунохроматографический анализ, экспресс-анализ</name>
+                    <OKPD2Info>
+                        <ns3:OKPDCode>21.20.23.110</ns3:OKPDCode>
+                        <ns3:OKPDName>Реагенты диагностические</ns3:OKPDName>
+                    </OKPD2Info>
+                    <KTRUInfo>
+                        <ns3:code>21.20.23.110-00011103</ns3:code>
+                        <ns3:name>SARS Коронавирус 2/Вирус гриппа А/В антигены ИВД, набор, иммунохроматографический анализ, экспресс-анализ</ns3:name>
+                        <ns3:versionId>174192</ns3:versionId>
+                        <ns3:versionNumber>2</ns3:versionNumber>
+                        <characteristics>
+                            <characteristicsUsingTextForm>
+                                <ns2:sid>231430307</ns2:sid>
+                                <ns2:notificationSid>267879306</ns2:notificationSid>
+                                <ns2:notificationExternalSid>52626de5-4bba-416e-9bdf-d215879fe845</ns2:notificationExternalSid>
+                                <ns2:name>Аналитическая чувствительность выявления антигена вируса гриппа А, ед/мл</ns2:name>
+                                <ns2:type>2</ns2:type>
+                                <ns2:values>
+                                    <ns2:value>
+                                        <ns2:sid>246860332</ns2:sid>
+                                        <ns2:valueFormat>N</ns2:valueFormat>
+                                        <ns2:valueSet>
+                                            <ns2:concreteValue>1000</ns2:concreteValue>
+                                        </ns2:valueSet>
+                                    </ns2:value>
+                                </ns2:values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <ns2:sid>231430308</ns2:sid>
+                                <ns2:notificationSid>267879302</ns2:notificationSid>
+                                <ns2:notificationExternalSid>c3eddb2e-6a66-413f-b3b9-eac8d95c1baa</ns2:notificationExternalSid>
+                                <ns2:name>Исследуемый биологический материал</ns2:name>
+                                <ns2:type>1</ns2:type>
+                                <ns2:values>
+                                    <ns2:value>
+                                        <ns2:sid>246860333</ns2:sid>
+                                        <ns2:notificationSid>343108963</ns2:notificationSid>
+                                        <ns2:notificationExternalSid>3927da92-b5e7-4a58-a5c5-de4a0a0f2f85</ns2:notificationExternalSid>
+                                        <ns2:qualityDescription>Мазок из носоглотки</ns2:qualityDescription>
+                                    </ns2:value>
+                                </ns2:values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <ns2:sid>231430309</ns2:sid>
+                                <ns2:notificationSid>267879312</ns2:notificationSid>
+                                <ns2:notificationExternalSid>68e7105f-8b6c-4eeb-b2fc-f14ce32f7d70</ns2:notificationExternalSid>
+                                <ns2:name>Состав набора</ns2:name>
+                                <ns2:type>1</ns2:type>
+                                <ns2:values>
+                                    <ns2:value>
+                                        <ns2:sid>246860334</ns2:sid>
+                                        <ns2:notificationSid>343108973</ns2:notificationSid>
+                                        <ns2:notificationExternalSid>3410092f-d473-4a0b-a9ff-3bb99043aaad</ns2:notificationExternalSid>
+                                        <ns2:qualityDescription>1.Тест-кассета содержит одну тестовую полоску на выявление антигена коронавируса SARS-CoV-2 и антигенов гриппа А/В
+2. Буфер для анализа во флаконе-капельнице
+3. Зонд-тампон стерильный</ns2:qualityDescription>
+                                    </ns2:value>
+                                </ns2:values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <ns2:sid>231436910</ns2:sid>
+                                <ns2:notificationSid>267879308</ns2:notificationSid>
+                                <ns2:notificationExternalSid>da371162-3423-41e1-b394-a988d605dd01</ns2:notificationExternalSid>
+                                <ns2:name>Диагностическая чувствительность гриппа А</ns2:name>
+                                <ns2:type>2</ns2:type>
+                                <ns2:values>
+                                    <ns2:value>
+                                        <ns2:sid>246860335</ns2:sid>
+                                        <ns2:OKEI>
+                                            <ns3:code>744</ns3:code>
+                                            <ns3:nationalCode>%</ns3:nationalCode>
+                                            <ns3:name>Процент</ns3:name>
+                                        </ns2:OKEI>
+                                        <ns2:valueFormat>N</ns2:valueFormat>
+                                        <ns2:valueSet>
+                                            <ns2:concreteValue>100</ns2:concreteValue>
+                                        </ns2:valueSet>
+                                    </ns2:value>
+                                </ns2:values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <ns2:sid>231436911</ns2:sid>
+                                <ns2:notificationSid>267879313</ns2:notificationSid>
+                                <ns2:notificationExternalSid>c868a931-32e6-463a-901b-c7dc5cff95c2</ns2:notificationExternalSid>
+                                <ns2:name>Количество в наборе</ns2:name>
+                                <ns2:type>2</ns2:type>
+                                <ns2:values>
+                                    <ns2:value>
+                                        <ns2:sid>246860336</ns2:sid>
+                                        <ns2:OKEI>
+                                            <ns3:code>872</ns3:code>
+                                            <ns3:nationalCode>флак</ns3:nationalCode>
+                                            <ns3:name>Флакон</ns3:name>
+                                        </ns2:OKEI>
+                                        <ns2:valueFormat>N</ns2:valueFormat>
+                                        <ns2:valueSet>
+                                            <ns2:concreteValue>25</ns2:concreteValue>
+                                        </ns2:valueSet>
+                                    </ns2:value>
+                                </ns2:values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <ns2:sid>231436912</ns2:sid>
+                                <ns2:notificationSid>267879314</ns2:notificationSid>
+                                <ns2:notificationExternalSid>cae2e618-8c89-43c2-a998-d2121771da45</ns2:notificationExternalSid>
+                                <ns2:name>Схема проведения анализа</ns2:name>
+                                <ns2:type>2</ns2:type>
+                                <ns2:values>
+                                    <ns2:value>
+                                        <ns2:sid>246860337</ns2:sid>
+                                        <ns2:OKEI>
+                                            <ns3:code>796</ns3:code>
+                                            <ns3:nationalCode>ШТ</ns3:nationalCode>
+                                            <ns3:name>Штука</ns3:name>
+                                        </ns2:OKEI>
+                                        <ns2:valueFormat>N</ns2:valueFormat>
+                                        <ns2:valueSet>
+                                            <ns2:concreteValue>1</ns2:concreteValue>
+                                        </ns2:valueSet>
+                                    </ns2:value>
+                                </ns2:values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <ns2:sid>231436913</ns2:sid>
+                                <ns2:notificationSid>267879301</ns2:notificationSid>
+                                <ns2:notificationExternalSid>cbba69c8-478c-4411-9f4f-db9f2dba52d2</ns2:notificationExternalSid>
+                                <ns2:name>Количество определений</ns2:name>
+                                <ns2:type>2</ns2:type>
+                                <ns2:values>
+                                    <ns2:value>
+                                        <ns2:sid>246860338</ns2:sid>
+                                        <ns2:OKEI>
+                                            <ns3:code>796</ns3:code>
+                                            <ns3:nationalCode>ШТ</ns3:nationalCode>
+                                            <ns3:name>Штука</ns3:name>
+                                        </ns2:OKEI>
+                                        <ns2:valueFormat>N</ns2:valueFormat>
+                                        <ns2:valueSet>
+                                            <ns2:concreteValue>25</ns2:concreteValue>
+                                        </ns2:valueSet>
+                                    </ns2:value>
+                                </ns2:values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <ns2:sid>231430299</ns2:sid>
+                                <ns2:notificationSid>267879311</ns2:notificationSid>
+                                <ns2:notificationExternalSid>70eb3d03-9b66-44a1-b468-01c81ce4355d</ns2:notificationExternalSid>
+                                <ns2:name>Перекрестная реактивность</ns2:name>
+                                <ns2:type>1</ns2:type>
+                                <ns2:values>
+                                    <ns2:value>
+                                        <ns2:sid>246853704</ns2:sid>
+                                        <ns2:notificationSid>343108972</ns2:notificationSid>
+                                        <ns2:notificationExternalSid>e7276a5c-94f6-45a8-bfee-eadd685e4668</ns2:notificationExternalSid>
+                                        <ns2:qualityDescription>МERS-CoV, SARS-CoV, респираторно-синцитиальный вирус типа А и В, аденовирус, риновирус, вирус парагриппа, метапневмовирус, бокавирус, Legionella pneumophila, Hemophilus influenza, Streptococcus pneumonia</ns2:qualityDescription>
+                                    </ns2:value>
+                                </ns2:values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <ns2:sid>231430300</ns2:sid>
+                                <ns2:notificationSid>267879310</ns2:notificationSid>
+                                <ns2:notificationExternalSid>e1bcea8c-1929-4cdf-9948-0ea523f847b7</ns2:notificationExternalSid>
+                                <ns2:name>Время достижения устойчивых результатов</ns2:name>
+                                <ns2:type>2</ns2:type>
+                                <ns2:values>
+                                    <ns2:value>
+                                        <ns2:sid>246860325</ns2:sid>
+                                        <ns2:OKEI>
+                                            <ns3:code>355</ns3:code>
+                                            <ns3:nationalCode>МИН</ns3:nationalCode>
+                                            <ns3:name>Минута</ns3:name>
+                                        </ns2:OKEI>
+                                        <ns2:valueFormat>N</ns2:valueFormat>
+                                        <ns2:valueSet>
+                                            <ns2:concreteValue>7</ns2:concreteValue>
+                                        </ns2:valueSet>
+                                    </ns2:value>
+                                </ns2:values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <ns2:sid>231430301</ns2:sid>
+                                <ns2:notificationSid>267879303</ns2:notificationSid>
+                                <ns2:notificationExternalSid>338f27b8-8fd4-4a1d-9022-49631b380b90</ns2:notificationExternalSid>
+                                <ns2:name>Диагностическая чувствительность выявления антигена SARS-CoV-2</ns2:name>
+                                <ns2:type>2</ns2:type>
+                                <ns2:values>
+                                    <ns2:value>
+                                        <ns2:sid>246860326</ns2:sid>
+                                        <ns2:OKEI>
+                                            <ns3:code>744</ns3:code>
+                                            <ns3:nationalCode>%</ns3:nationalCode>
+                                            <ns3:name>Процент</ns3:name>
+                                        </ns2:OKEI>
+                                        <ns2:valueFormat>N</ns2:valueFormat>
+                                        <ns2:valueSet>
+                                            <ns2:concreteValue>100</ns2:concreteValue>
+                                        </ns2:valueSet>
+                                    </ns2:value>
+                                </ns2:values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <ns2:sid>231430302</ns2:sid>
+                                <ns2:notificationSid>267879309</ns2:notificationSid>
+                                <ns2:notificationExternalSid>498b8a0f-323e-4d8c-a268-477f9c897d85</ns2:notificationExternalSid>
+                                <ns2:name>Диагностическая чувствительность гриппа В</ns2:name>
+                                <ns2:type>2</ns2:type>
+                                <ns2:values>
+                                    <ns2:value>
+                                        <ns2:sid>246860327</ns2:sid>
+                                        <ns2:OKEI>
+                                            <ns3:code>744</ns3:code>
+                                            <ns3:nationalCode>%</ns3:nationalCode>
+                                            <ns3:name>Процент</ns3:name>
+                                        </ns2:OKEI>
+                                        <ns2:valueFormat>N</ns2:valueFormat>
+                                        <ns2:valueSet>
+                                            <ns2:concreteValue>100</ns2:concreteValue>
+                                        </ns2:valueSet>
+                                    </ns2:value>
+                                </ns2:values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <ns2:sid>231430303</ns2:sid>
+                                <ns2:notificationSid>267879300</ns2:notificationSid>
+                                <ns2:notificationExternalSid>da0cbcc2-7632-464d-8308-c575236de1bf</ns2:notificationExternalSid>
+                                <ns2:name>Назначение</ns2:name>
+                                <ns2:type>1</ns2:type>
+                                <ns2:values>
+                                    <ns2:value>
+                                        <ns2:sid>246860328</ns2:sid>
+                                        <ns2:notificationSid>343108961</ns2:notificationSid>
+                                        <ns2:notificationExternalSid>d759698b-dd51-422f-9e41-81818794a948</ns2:notificationExternalSid>
+                                        <ns2:qualityDescription>Выявление антигена коронавируса SARS-CoV-2 и антигенов гриппа А/В</ns2:qualityDescription>
+                                    </ns2:value>
+                                </ns2:values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <ns2:sid>231430304</ns2:sid>
+                                <ns2:notificationSid>267879305</ns2:notificationSid>
+                                <ns2:notificationExternalSid>9fd100c3-c19b-4bbb-8e4b-b1b302b7f0b9</ns2:notificationExternalSid>
+                                <ns2:name>Аналитическая чувствительность выявления антигена SARS-CoV-2, пг/мл</ns2:name>
+                                <ns2:type>2</ns2:type>
+                                <ns2:values>
+                                    <ns2:value>
+                                        <ns2:sid>246860329</ns2:sid>
+                                        <ns2:valueFormat>N</ns2:valueFormat>
+                                        <ns2:valueSet>
+                                            <ns2:concreteValue>5</ns2:concreteValue>
+                                        </ns2:valueSet>
+                                    </ns2:value>
+                                </ns2:values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <ns2:sid>231430305</ns2:sid>
+                                <ns2:notificationSid>267879304</ns2:notificationSid>
+                                <ns2:notificationExternalSid>5e899cad-5747-4e27-9bbf-44012a694f08</ns2:notificationExternalSid>
+                                <ns2:name>Диагностическая специфичность выявление антигена SARS-CoV-2</ns2:name>
+                                <ns2:type>2</ns2:type>
+                                <ns2:values>
+                                    <ns2:value>
+                                        <ns2:sid>246860330</ns2:sid>
+                                        <ns2:OKEI>
+                                            <ns3:code>744</ns3:code>
+                                            <ns3:nationalCode>%</ns3:nationalCode>
+                                            <ns3:name>Процент</ns3:name>
+                                        </ns2:OKEI>
+                                        <ns2:valueFormat>N</ns2:valueFormat>
+                                        <ns2:valueSet>
+                                            <ns2:concreteValue>100</ns2:concreteValue>
+                                        </ns2:valueSet>
+                                    </ns2:value>
+                                </ns2:values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <ns2:sid>231430306</ns2:sid>
+                                <ns2:notificationSid>267879307</ns2:notificationSid>
+                                <ns2:notificationExternalSid>9f816480-a860-42a1-9d5b-a7cee1991eb3</ns2:notificationExternalSid>
+                                <ns2:name>Аналитическая чувствительность выявления антигена вируса гриппа В, ед/мл</ns2:name>
+                                <ns2:type>2</ns2:type>
+                                <ns2:values>
+                                    <ns2:value>
+                                        <ns2:sid>246860331</ns2:sid>
+                                        <ns2:valueFormat>N</ns2:valueFormat>
+                                        <ns2:valueSet>
+                                            <ns2:concreteValue>1000</ns2:concreteValue>
+                                        </ns2:valueSet>
+                                    </ns2:value>
+                                </ns2:values>
+                            </characteristicsUsingTextForm>
+                        </characteristics>
+                    </KTRUInfo>
+                    <hierarchyType>ND</hierarchyType>
+                    <type>PRODUCT</type>
+                    <sum>625000.00</sum>
+                    <medicalProductInfo>
+                        <isMedicalProductInfo>true</isMedicalProductInfo>
+                        <medicalProductCode>375010</medicalProductCode>
+                        <medicalProductName>SARS Коронавирус 2/Вирус гриппа А/В антигены ИВД, набор, иммунохроматографический анализ, экспресс-анализ</medicalProductName>
+                        <certificateNameMedicalProduct>РЗН 2024/24296 от 23.12.2024 Набор реагентов «Тест-система иммунохроматографическая для качественного                   определения антигена коронавируса SARS-CoV-2 и антигенов вирусов  гриппа А и В в биологическом материале человека                          
+«ИХА-КОВИГРИПП»</certificateNameMedicalProduct>
+                    </medicalProductInfo>
+                    <trademarkInfo>
+                        <trademark>ЭКОлаб</trademark>
+                    </trademarkInfo>
+                    <OKEIInfo>
+                        <ns3:code>796</ns3:code>
+                        <ns3:nationalCode>ШТ</ns3:nationalCode>
+                        <ns3:name>Штука</ns3:name>
+                    </OKEIInfo>
+                    <quantity>5000</quantity>
+                    <price>125.00</price>
+                    <originCountryInfo>
+                        <ns3:countryCode>643</ns3:countryCode>
+                        <ns3:countryFullName>Российская Федерация</ns3:countryFullName>
+                    </originCountryInfo>
+                    <VATRateInfo>
+                        <ns3:VATCode>R10</ns3:VATCode>
+                        <ns3:VATName>10%</ns3:VATName>
+                    </VATRateInfo>
+                </productInfo>
+            </productsInfoElectronicContract>
+        </productsInfo>
+    </contractSubjectInfo>
+    <contractConditionsInfo>
+        <contractExecutionTermsInfo>
+            <notRelativeTermsInfo>
+                <isFromConclusionDate>true</isFromConclusionDate>
+                <endDate>2026-12-31</endDate>
+            </notRelativeTermsInfo>
+        </contractExecutionTermsInfo>
+        <stagesInfo>
+            <stageInfo>
+                <sid>34003961</sid>
+                <purchaseStageSid>18633744</purchaseStageSid>
+                <purchaseStageExternalSid>561810ef-cca6-4404-822b-195f1f8be3df</purchaseStageExternalSid>
+                <termsInfo>
+                    <notRelativeTermsInfo>
+                        <isFromConclusionDate>true</isFromConclusionDate>
+                        <endDate>2026-12-31</endDate>
+                    </notRelativeTermsInfo>
+                </termsInfo>
+                <paymentsSumInfo>
+                    <paymentsSum>625000.00</paymentsSum>
+                    <advancePaymentSumInfo>
+                        <sum>0.00</sum>
+                        <sumInPercents>0.0</sumInPercents>
+                    </advancePaymentSumInfo>
+                    <nonbudgetFinancingsInfo>
+                        <sid>37062252</sid>
+                        <KVR>244</KVR>
+                        <paymentYearsInfo>
+                            <paymentYearInfo>
+                                <paymentYear>2026</paymentYear>
+                                <paymentSum>625000.00</paymentSum>
+                            </paymentYearInfo>
+                        </paymentYearsInfo>
+                    </nonbudgetFinancingsInfo>
+                </paymentsSumInfo>
+            </stageInfo>
+        </stagesInfo>
+        <deliveryPlaceInfo>
+            <byGARInfo>
+                <ns2:sid>28132241</ns2:sid>
+                <ns2:countryInfo>
+                    <ns3:countryCode>643</ns3:countryCode>
+                    <ns3:countryFullName>Российская Федерация</ns3:countryFullName>
+                </ns2:countryInfo>
+                <ns2:GARInfo>
+                    <ns2:GARGuid>5b51cc77-b4a3-4ddb-84d6-0d8472d05aa8</ns2:GARGuid>
+                    <ns2:GARAddress>обл Калужская, г.о. город Калуга, г Калуга, ул Вишневского, д. 1</ns2:GARAddress>
+                </ns2:GARInfo>
+            </byGARInfo>
+        </deliveryPlaceInfo>
+        <otherConditionsInfo>
+            <oneSideRejection>true</oneSideRejection>
+        </otherConditionsInfo>
+        <isExecutionStagesTerms>false</isExecutionStagesTerms>
+    </contractConditionsInfo>
+    <contractFinancingInfo>
+        <financingSourcesInfo>
+            <nonbudgetFinancingsInfo>
+                <selfFunds>true</selfFunds>
+            </nonbudgetFinancingsInfo>
+            <bankSupportContractRequiredInfo>
+                <ns2:bankSupportContractRequired>false</ns2:bankSupportContractRequired>
+            </bankSupportContractRequiredInfo>
+        </financingSourcesInfo>
+        <contractPriceInfo>
+            <priceType>P</priceType>
+            <price>625000.00</price>
+            <currencyInfo>
+                <ns3:code>RUB</ns3:code>
+                <ns3:name>РОССИЙСКИЙ РУБЛЬ</ns3:name>
+            </currencyInfo>
+        </contractPriceInfo>
+        <paymentProcedureInfo>
+            <holdCashCondition>false</holdCashCondition>
+            <amountsReducedByTaxes>false</amountsReducedByTaxes>
+        </paymentProcedureInfo>
+        <paymentsInfo>
+            <paymentYearsInfo>
+                <paymentYearInfo>
+                    <paymentYear>2026</paymentYear>
+                    <paymentSum>625000.00</paymentSum>
+                </paymentYearInfo>
+                <paymentsSum>625000.00</paymentsSum>
+            </paymentYearsInfo>
+        </paymentsInfo>
+    </contractFinancingInfo>
+    <attachmentsInfo>
+        <attachmentInfo>
+            <publishedContentId>BC609E98507F43F5AAD71B50FE7B51DC</publishedContentId>
+            <fileName>Проект контракта №7 (экспресс-тесты на грипп).docx</fileName>
+            <docDescription>Проект контракта №7 (экспресс-тесты на грипп)</docDescription>
+            <contentId>BC609E98507F43F5AAD71B50FE7B51DC</contentId>
+            <fileSize>42598</fileSize>
+        </attachmentInfo>
+    </attachmentsInfo>
+    <printFormFieldsInfo>
+        <revisionNumber>1</revisionNumber>
+        <isEstimateContract>false</isEstimateContract>
+    </printFormFieldsInfo>
+</ns6:cpElectronicContract>
